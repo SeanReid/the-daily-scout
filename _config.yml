@@ -1,0 +1,28 @@
+title: The Daily Scout
+description: "Curated product roundups — tested, reviewed, and ranked so you don't have to."
+url: "https://seanreid.github.io"
+baseurl: "/the-daily-scout"
+permalink: /:slug/
+
+# Build
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO
+twitter:
+  card: summary
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "The Daily Scout"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
