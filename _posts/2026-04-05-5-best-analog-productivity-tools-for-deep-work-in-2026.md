@@ -5,9 +5,26 @@ date: 2026-04-05
 description: "Tired of digital distractions? Discover the 5 best analog productivity tools for deep work in 2026, from smart notebooks to visual timers. Read the full guide!"
 slug: "5-best-analog-productivity-tools-for-deep-work-in-2026"
 tags: ["productivity", "analog tools", "desk setup", "bullet journal", "deep work"]
+author: "The Daily Scout Editorial Team"
 ---
 
 # 5 Best Analog Productivity Tools for Deep Work in 2026
+<div class="wirecutter-summary">
+  <div class="wirecutter-summary-title">
+    <i class="fa-solid fa-trophy" style="color: #f59e0b;"></i> At A Glance: Our Top Recommendations
+  </div>
+  <div class="summary-picks-grid">
+    <div class="summary-pick-card">
+      <span class="pick-badge-overall">🏆 Our #1 Pick</span>
+      <strong>🏆 Our Top Pick: The Rocketbook Core Reusable Smart Notebook</strong>
+    </div>
+    <div class="summary-pick-card">
+      <span class="pick-badge-value">💰 Best Value</span>
+      <strong>Rocketbook Core Reusable Smart Notebook</strong>
+    </div>
+  </div>
+</div>
+
 You sit down at your desk, fully intending to crush that massive project. You open your laptop, and *ping*—a Slack message. You check it, which leads to checking email, which leads to scrolling a feed. An hour later, your deep work session is completely derailed.
 
 Sound familiar? 

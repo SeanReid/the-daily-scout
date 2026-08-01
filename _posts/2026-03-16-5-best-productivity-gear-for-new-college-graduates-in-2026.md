@@ -5,6 +5,7 @@ date: 2026-03-16
 description: "Starting your first job? Here's the best productivity gear for new college graduates in 2026. We review the top 5 tools for your work-from-home setup."
 slug: "5-best-productivity-gear-for-new-college-graduates-in-2026"
 tags: ["best graduation gifts", "productivity tools", "first apartment office essentials", "work from home gear", "graduation 2026"]
+author: "The Daily Scout Editorial Team"
 ---
 
 Just tossed your graduation cap in the air? Congratulations! Now comes the hard part: transitioning from all-night study sessions to the 9-to-5 grind. Starting your first real job is exciting, but building productive habits from day one is the key to success. Forget generic planners and cheap pens. To conquer your new role, you need gear that works as hard as you do. 

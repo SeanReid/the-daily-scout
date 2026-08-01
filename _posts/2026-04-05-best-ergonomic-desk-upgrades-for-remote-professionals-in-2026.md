@@ -5,6 +5,7 @@ date: 2026-04-05
 description: "Upgrade your home office with the 5 best ergonomic desk accessories of 2026. Reduce back pain and wrist strain with these top remote work must-haves."
 slug: "best-ergonomic-desk-upgrades-for-remote-professionals-in-2026"
 tags: ["ergonomic desk setup", "home office essentials", "remote work must haves", "best desk accessories 2026", "office productivity tips"]
+author: "The Daily Scout Editorial Team"
 ---
 
 Let's be brutally honest for a second: working from the kitchen table or a poorly equipped home office is destroying your posture. If you're ending your workday with a stiff neck, aching wrists, or a lower back that feels like it belongs to someone twice your age, it's time to stop pretending that your current setup is 'good enough.'

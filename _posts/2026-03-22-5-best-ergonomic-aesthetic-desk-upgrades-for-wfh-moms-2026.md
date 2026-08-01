@@ -5,6 +5,7 @@ date: 2026-03-22
 description: "Looking for the perfect Mother's Day gift or a wfh desk setup upgrade for her? Here are the 5 best ergonomic and aesthetic desk accessories of 2026."
 slug: "5-best-ergonomic-aesthetic-desk-upgrades-for-wfh-moms-2026"
 tags: ["mother's day gift ideas 2026", "aesthetic home office decor", "wfh desk setup for her", "best ergonomic desk accessories", "gift guide for working moms"]
+author: "The Daily Scout Editorial Team"
 ---
 
 You finally sit down with your fresh, hot coffee, open your laptop, and instantly feel... chaotic. The mountain of neon sticky notes, the tangled headphone cords, the cold, hard, uninspiring desk surface. If you're a WFH mom, your workspace is your sanctuary (and sometimes the only quiet room in the house). So why does it look like an office supply closet exploded? 

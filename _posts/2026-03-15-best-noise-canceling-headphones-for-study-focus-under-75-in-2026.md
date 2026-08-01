@@ -5,6 +5,7 @@ date: 2026-03-15
 description: "Looking for the best noise-canceling headphones for study focus under $75? We reviewed the top 5 budget headphones for 2026 students. See our top picks!"
 slug: "best-noise-canceling-headphones-for-study-focus-under-75-in-2026"
 tags: ["best headphones under 75", "noise canceling headphones for study", "college study essentials", "best budget headphones 2026", "focus tools for students"]
+author: "The Daily Scout Editorial Team"
 ---
 
 If I have to hear my roommate’s TikTok feed or the hum of a crowded library one more time while I’m trying to prep for finals, I’m going to lose it. We’ve all been there—trying to find that ‘flow state’ while the world around us is determined to stay as loud as possible. You need noise-canceling headphones, but you don’t have $350 to drop on Bose or Sony’s flagship models. 

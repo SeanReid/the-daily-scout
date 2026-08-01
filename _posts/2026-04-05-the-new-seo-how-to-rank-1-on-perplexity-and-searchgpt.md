@@ -5,6 +5,7 @@ date: 2026-04-05
 description: "Traditional Google SEO is dying. Learn the exact strategy and 5 essential tools you need to rank #1 on Perplexity, SearchGPT, and AI answer engines."
 slug: "the-new-seo-how-to-rank-1-on-perplexity-and-searchgpt"
 tags: ["seo", "ai writing", "productivity", "desk setup", "perplexity", "searchgpt"]
+author: "The Daily Scout Editorial Team"
 ---
 
 Google traffic is tanking. If you've looked at your analytics lately, you've probably noticed the slow, painful bleed of organic clicks. But people haven't stopped searching—they've just moved. They are asking Perplexity, SearchGPT, and Claude.

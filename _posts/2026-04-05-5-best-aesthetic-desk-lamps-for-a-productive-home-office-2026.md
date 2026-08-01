@@ -5,6 +5,7 @@ date: 2026-04-05
 description: "Upgrade your aesthetic desk setup with the 5 best desk lamps of 2026. Discover top-rated office lighting ideas for a productive home office."
 slug: "5-best-aesthetic-desk-lamps-for-a-productive-home-office-2026"
 tags: ["aesthetic desk setup", "office lighting ideas", "best desk lamps 2026", "dream office decor", "home office productivity"]
+author: "The Daily Scout Editorial Team"
 ---
 
 **Affiliate Disclosure:** 

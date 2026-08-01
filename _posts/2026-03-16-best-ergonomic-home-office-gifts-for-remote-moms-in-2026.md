@@ -5,6 +5,7 @@ date: 2026-03-16
 description: "Discover the 5 best ergonomic home office gifts for remote moms in 2026. From memory foam foot rests to smart mug warmers, upgrade her WFH desk setup today!"
 slug: "best-ergonomic-home-office-gifts-for-remote-moms-in-2026"
 tags: ["ergonomic desk setup for moms", "best home office gifts for her", "mothers day gift ideas 2026", "work from home essentials for women", "best desk accessories for productivity"]
+author: "The Daily Scout Editorial Team"
 ---
 
 Let's be honest: the "work from home mom" aesthetic on Pinterest looks amazing, but the reality is often a lot of neck stiffness, lower back pain, and a cup of coffee that's been reheated in the microwave three times before noon. If you're hunting for the absolute best home office gifts for her this Mother's Day 2026, you can skip the generic planners and cliché "Boss Babe" mugs.

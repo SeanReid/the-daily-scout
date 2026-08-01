@@ -1,5 +1,5 @@
 /* ==========================================================================
-   THE DAILY SCOUT — PREMIUM WIRECUTTER-GRADE DESIGN SYSTEM (2026)
+   THE DAILY SCOUT — WIRECUTTER-GRADE DESIGN SYSTEM (2026 EDITION)
    ========================================================================== */
 
 /* === CSS Custom Properties === */
@@ -7,7 +7,7 @@
   --font-heading: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 
-  /* Colors */
+  /* Color Palette */
   --slate-900: #0f172a;
   --slate-800: #1e293b;
   --slate-700: #334155;
@@ -24,7 +24,7 @@
   --emerald-700: #047857;
   
   --amazon-orange: #ff9900;
-  --amazon-hover:  #ffaa00;
+  --amazon-gold:   #ffaa00;
 
   --max-width: 840px;
   --radius-lg: 16px;
@@ -153,7 +153,7 @@ body {
   margin-bottom: 1.25rem;
 }
 
-/* === Editorial Byline === */
+/* === Authentic Editorial Byline === */
 .editorial-meta {
   display: flex;
   align-items: center;
@@ -172,13 +172,13 @@ body {
   width: 44px;
   height: 44px;
   border-radius: 50%;
-  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  background: linear-gradient(135deg, #059669, #047857);
   color: #fff;
   display: flex;
   align-items: center;
   justify-content: center;
   font-weight: 800;
-  font-size: 1rem;
+  font-size: 0.95rem;
 }
 
 .author-name { font-weight: 700; font-size: 0.95rem; color: var(--slate-900); }
@@ -196,19 +196,19 @@ body {
   border-radius: 20px;
 }
 
-/* === Wirecutter-Style Top Comparison Summary Box === */
-.wirecutter-summary-box {
+/* === Wirecutter Top Summary Box === */
+.wirecutter-summary {
   background: #ffffff;
   border: 2px solid var(--slate-200);
   border-radius: var(--radius-lg);
   padding: 1.75rem;
   margin-bottom: 2.5rem;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
 }
 
 .wirecutter-summary-title {
   font-family: var(--font-heading);
-  font-size: 1.15rem;
+  font-size: 1.2rem;
   font-weight: 800;
   color: var(--slate-900);
   margin-bottom: 1rem;
@@ -217,6 +217,47 @@ body {
   gap: 0.5rem;
   border-bottom: 2px solid var(--slate-100);
   padding-bottom: 0.5rem;
+}
+
+.summary-picks-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.summary-pick-card {
+  background: var(--slate-50);
+  border: 1px solid var(--slate-200);
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.pick-badge-overall {
+  background: var(--amber-500);
+  color: var(--slate-900);
+  font-size: 0.75rem;
+  font-weight: 800;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  text-transform: uppercase;
+  align-self: flex-start;
+  margin-bottom: 0.5rem;
+}
+
+.pick-badge-value {
+  background: var(--emerald-600);
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 800;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  text-transform: uppercase;
+  align-self: flex-start;
+  margin-bottom: 0.5rem;
 }
 
 /* === Affiliate Disclosure Banner === */
@@ -234,7 +275,7 @@ body {
   gap: 0.75rem;
 }
 
-/* === Article Body === */
+/* === Article Content === */
 .post-content {
   background: #ffffff;
   padding: 2.5rem 2.25rem;
@@ -251,7 +292,6 @@ body {
   line-height: 1.8;
 }
 
-/* === Product Headings & Badges === */
 .post-content h2 {
   font-family: var(--font-heading);
   font-size: 1.65rem;
@@ -264,8 +304,34 @@ body {
   padding-bottom: 0.5rem;
 }
 
+/* === Product Card Container === */
+.product-showcase-card {
+  background: var(--slate-50);
+  border: 1px solid var(--slate-200);
+  border-radius: var(--radius-lg);
+  padding: 1.75rem;
+  margin: 2rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.product-img-wrapper {
+  text-align: center;
+  margin: 1.25rem 0;
+  background: #ffffff;
+  padding: 1.5rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--slate-200);
+}
+
+.product-img-wrapper img {
+  max-width: 100%;
+  max-height: 280px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
 /* === High-Converting Amazon Gold Buttons === */
-.post-content a[href*="amazon.com"] {
+.post-content a[href*="amazon.com"], .amazon-gold-btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -284,19 +350,19 @@ body {
   cursor: pointer;
 }
 
-.post-content a[href*="amazon.com"]:hover {
+.post-content a[href*="amazon.com"]:hover, .amazon-gold-btn:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 22px rgba(255, 153, 0, 0.55);
   background: linear-gradient(135deg, #ffaa00, #ffbb00);
 }
 
-.post-content a[href*="amazon.com"]::after {
+.post-content a[href*="amazon.com"]::after, .amazon-gold-btn::after {
   content: "→";
   font-size: 1.2rem;
   transition: transform 0.2s ease;
 }
 
-.post-content a[href*="amazon.com"]:hover::after {
+.post-content a[href*="amazon.com"]:hover::after, .amazon-gold-btn:hover::after {
   transform: translateX(4px);
 }
 
@@ -330,26 +396,6 @@ body {
   font-size: 0.9rem;
   text-transform: uppercase;
   margin-bottom: 0.5rem;
-}
-
-/* === Tables === */
-.post-content table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1.75rem 0;
-  font-size: 0.95rem;
-}
-
-.post-content th, .post-content td {
-  padding: 0.75rem 1rem;
-  border-bottom: 1px solid var(--slate-200);
-  text-align: left;
-}
-
-.post-content th {
-  background: var(--slate-100);
-  font-weight: 800;
-  color: var(--slate-900);
 }
 
 /* === Footer === */

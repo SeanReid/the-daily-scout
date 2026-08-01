@@ -5,6 +5,7 @@ date: 2026-04-05
 description: "Flux 2.0 vs Midjourney v7: We generated 1,000 realistic portraits to find the truth. Plus, the 5 essential hardware tools you need to run them efficiently."
 slug: "flux-20-vs-midjourney-v7-the-truth-after-1000-realistic-portraits"
 tags: ["ai image generation", "flux 2.0", "midjourney v7", "ai art", "rtx 4090", "macbook pro m3 max", "ai hardware"]
+author: "The Daily Scout Editorial Team"
 ---
 
 Look, we all know the AI image generation space is moving at lightspeed. But when you’re actually trying to run a business, create consistent characters for a graphic novel, or just get a realistic portrait without hands that look like spaghetti, the hype doesn't help. You need to know what actually works. 

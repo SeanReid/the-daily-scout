@@ -5,6 +5,7 @@ date: 2026-03-22
 description: "Stop traveling with tangled cords. We tested the 5 best magnetic power banks for summer travel in 2026. See which portable chargers are actually worth it."
 slug: "5-best-high-speed-magnetic-power-banks-for-summer-travel-2026"
 tags: ["travel essentials 2026", "best magsafe power bank", "iphone travel accessories", "portable charger for vacation", "best travel gadgets"]
+author: "The Daily Scout Editorial Team"
 ---
 
 Let’s be real: nothing ruins a travel day faster than watching your phone battery dip below 10% while you're navigating a new city, trying to translate a menu, or scanning a mobile boarding pass. 

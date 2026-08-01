@@ -5,6 +5,7 @@ date: 2026-03-16
 description: "Looking for the perfect graduation gift? We tested the best smart reusable notebooks of 2026. Find the ultimate productivity gift for your new grad here."
 slug: "5-best-smart-reusable-notebooks-for-graduation-gifts-in-2026"
 tags: ["graduation gift ideas 2026", "best smart notebook", "college essentials", "productivity gifts for him", "reusable notebook review"]
+author: "The Daily Scout Editorial Team"
 ---
 
 Let's be honest: buying a graduation gift that isn't just cash in a card is tough. You want something practical, but not boring. Something they'll actually use, but wouldn't necessarily splurge on for themselves.

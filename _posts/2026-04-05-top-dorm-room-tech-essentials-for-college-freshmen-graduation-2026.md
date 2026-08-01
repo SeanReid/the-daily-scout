@@ -5,6 +5,7 @@ date: 2026-04-05
 description: "Moving to campus? Discover the top 5 dorm room tech essentials for 2026. From space-saving chargers to smart lighting, build your perfect dorm tech list."
 slug: "top-dorm-room-tech-essentials-for-college-freshmen-graduation-2026"
 tags: ["dorm room essentials 2026", "college graduation gifts", "dorm tech list", "high school grad gift ideas", "freshman dorm decor"]
+author: "The Daily Scout Editorial Team"
 ---
 
 # Top Dorm Room Tech Essentials for College Freshmen (Graduation 2026)
