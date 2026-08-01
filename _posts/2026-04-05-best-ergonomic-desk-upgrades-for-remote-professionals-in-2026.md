@@ -16,7 +16,10 @@ Here are the 5 ergonomic upgrades actually worth your money this year.
 
 ### 🏆 Our Top Pick: Logitech MX Master 3S Wireless Mouse
 
-<a href="https://www.amazon.com/s?k=%F0%9F%8F%86+Our+Top+Pick%3A+Logitech+MX+Master+3S+Wireless+Mouse&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![🏆 Our Top Pick: Logitech MX Master 3S Wireless Mouse](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=%F0%9F%8F%86+Our+Top+Pick%3A+Logitech+MX+Master+3S+Wireless+Mouse&tag=thedailysco0d-20)
 
 **Price:** $70 - $99
 
@@ -37,7 +40,10 @@ If there is one single item on this list you should buy today, it's the Logitech
 
 ### 2. Everlasting Comfort Memory Foam Seat Cushion
 
-<a href="https://www.amazon.com/s?k=Everlasting+Comfort+Memory+Foam+Seat+Cushion&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Everlasting Comfort Memory Foam Seat Cushion](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Everlasting+Comfort+Memory+Foam+Seat+Cushion&tag=thedailysco0d-20)
 
 **Price:** $40 - $55
 
@@ -57,7 +63,10 @@ Lower back pain is the number one complaint I hear from WFH employees. Before yo
 
 ### 3. Rain Design mStand Laptop Stand
 
-<a href="https://www.amazon.com/s?k=Rain+Design+mStand+Laptop+Stand&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Rain Design mStand Laptop Stand](https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Rain+Design+mStand+Laptop+Stand&tag=thedailysco0d-20)
 
 **Price:** $40 - $50
 
@@ -77,7 +86,10 @@ Stop looking down at your laptop screen! 'Tech neck' is real, and the Rain Desig
 
 ### 4. Grovemade-Style Wool Felt Desk Mat
 
-<a href="https://www.amazon.com/s?k=Grovemade-Style+Wool+Felt+Desk+Mat&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Grovemade-Style Wool Felt Desk Mat](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Grovemade-Style+Wool+Felt+Desk+Mat&tag=thedailysco0d-20)
 
 **Price:** $35 - $50
 
@@ -95,7 +107,10 @@ While a desk mat might not seem like a traditional 'ergonomic' item, it profound
 
 ### 5. Lamicall Adjustable Tablet Stand
 
-<a href="https://www.amazon.com/s?k=Lamicall+Adjustable+Tablet+Stand&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Lamicall Adjustable Tablet Stand](https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Lamicall+Adjustable+Tablet+Stand&tag=thedailysco0d-20)
 
 **Price:** $20 - $30
 
@@ -115,7 +130,10 @@ If you use an iPad or tablet as a secondary screen for Slack, Spotify, or refere
 
 ### The Final Verdict: Which Should You Buy?
 
-<a href="https://www.amazon.com/s?k=The+Final+Verdict%3A+Which+Should+You+Buy%3F&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![The Final Verdict: Which Should You Buy?](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=The+Final+Verdict%3A+Which+Should+You+Buy%3F&tag=thedailysco0d-20)
 
 
 | Product | Best For | Price Range | 

@@ -20,7 +20,10 @@ If you only buy one item from this list to instantly elevate your desk, make it 
 
 ### 1. Oakywood Felt & Cork Desk Pad
 
-<a href="https://www.amazon.com/s?k=Oakywood+Felt+%26+Cork+Desk+Pad&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Oakywood Felt & Cork Desk Pad](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Oakywood+Felt+%26+Cork+Desk+Pad&tag=thedailysco0d-20)
 
 **Price Range:** $35 - $50
 
@@ -40,7 +43,10 @@ This is hands-down the **best desk mat for macbook setup** owners because the so
 
 ### 2. Baseus LED Monitor Light Bar with Auto-Dimming
 
-<a href="https://www.amazon.com/s?k=Baseus+LED+Monitor+Light+Bar+with+Auto-Dimming&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Baseus LED Monitor Light Bar with Auto-Dimming](https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Baseus+LED+Monitor+Light+Bar+with+Auto-Dimming&tag=thedailysco0d-20)
 
 **Price Range:** $40 - $55
 
@@ -60,7 +66,10 @@ Equipped with a ambient light sensor, it automatically adjusts brightness based 
 
 ### 3. OImaster Vertical Dual Laptop Stand Aluminum
 
-<a href="https://www.amazon.com/s?k=OImaster+Vertical+Dual+Laptop+Stand+Aluminum&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![OImaster Vertical Dual Laptop Stand Aluminum](https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=OImaster+Vertical+Dual+Laptop+Stand+Aluminum&tag=thedailysco0d-20)
 
 **Price Range:** $30 - $42
 
@@ -80,7 +89,10 @@ Crafted from heavy-duty anodized aluminum with protective non-slip silicone padd
 
 ### 4. Anker 3-in-1 Cube MagSafe Charging Station
 
-<a href="https://www.amazon.com/s?k=Anker+3-in-1+Cube+MagSafe+Charging+Station&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Anker 3-in-1 Cube MagSafe Charging Station](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Anker+3-in-1+Cube+MagSafe+Charging+Station&tag=thedailysco0d-20)
 
 **Price Range:** $55 - $75
 
@@ -100,7 +112,10 @@ Official 15W MagSafe fast charging powers up your iPhone while keeping the scree
 
 ### 5. Govee RGBIC LED Ambient Light Bar Pair
 
-<a href="https://www.amazon.com/s?k=Govee+RGBIC+LED+Ambient+Light+Bar+Pair&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Govee RGBIC LED Ambient Light Bar Pair](https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Govee+RGBIC+LED+Ambient+Light+Bar+Pair&tag=thedailysco0d-20)
 
 **Price Range:** $45 - $65
 

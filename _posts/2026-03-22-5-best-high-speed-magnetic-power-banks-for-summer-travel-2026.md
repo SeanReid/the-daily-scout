@@ -18,7 +18,10 @@ After rigorous testing, here are the 5 best magnetic power banks worth your mone
 
 ### 🏆 Our Top Pick: Anker 622 Magnetic Battery (MagGo)
 
-<a href="https://www.amazon.com/s?k=%F0%9F%8F%86+Our+Top+Pick%3A+Anker+622+Magnetic+Battery&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![🏆 Our Top Pick: Anker 622 Magnetic Battery](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=%F0%9F%8F%86+Our+Top+Pick%3A+Anker+622+Magnetic+Battery&tag=thedailysco0d-20)
 
 If you just want the best overall balance of price, portability, and features, the Anker 622 is the undisputed champion. The built-in kickstand is an absolute game-changer for long flights and train rides. 
 
@@ -26,7 +29,10 @@ If you just want the best overall balance of price, portability, and features, t
 
 ### 1. Anker 622 Magnetic Battery (MagGo) with Foldable Kickstand
 
-<a href="https://www.amazon.com/s?k=Anker+622+Magnetic+Battery+with+Foldable+Kickstand&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Anker 622 Magnetic Battery with Foldable Kickstand](https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Anker+622+Magnetic+Battery+with+Foldable+Kickstand&tag=thedailysco0d-20)
 
 **Price:** $40 - $60  
 
@@ -48,7 +54,10 @@ The Anker 622 is practically a travel necessity at this point. It snaps firmly o
 
 ### 2. Baseus Magnetic Power Bank 10000mAh with Built-in Cable
 
-<a href="https://www.amazon.com/s?k=Baseus+Magnetic+Power+Bank+10000mAh+with+Built-in+Cable&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Baseus Magnetic Power Bank 10000mAh with Built-in Cable](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Baseus+Magnetic+Power+Bank+10000mAh+with+Built-in+Cable&tag=thedailysco0d-20)
 
 **Price:** $35 - $50  
 
@@ -68,7 +77,10 @@ If you're an aggressive power user who needs multiple charges to survive a 14-ho
 
 ### 3. Belkin BoostCharge Magnetic Wireless Power Bank
 
-<a href="https://www.amazon.com/s?k=Belkin+BoostCharge+Magnetic+Wireless+Power+Bank&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Belkin BoostCharge Magnetic Wireless Power Bank](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Belkin+BoostCharge+Magnetic+Wireless+Power+Bank&tag=thedailysco0d-20)
 
 **Price:** $45 - $60  
 
@@ -90,7 +102,10 @@ Belkin has been a trusted, premium name in the Apple ecosystem for years, and th
 
 ### 4. Satechi Quatro Wireless Power Bank
 
-<a href="https://www.amazon.com/s?k=Satechi+Quatro+Wireless+Power+Bank&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Satechi Quatro Wireless Power Bank](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Satechi+Quatro+Wireless+Power+Bank&tag=thedailysco0d-20)
 
 **Price:** $60 - $75  
 
@@ -113,7 +128,10 @@ Are you that person traveling with an iPhone, an Apple Watch, AND AirPods? The S
 
 ### 5. iWalk Small Portable Charger with Built-in Lightning Connector
 
-<a href="https://www.amazon.com/s?k=iWalk+Small+Portable+Charger+with+Built-in+Lightning+Connector&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![iWalk Small Portable Charger with Built-in Lightning Connector](https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=iWalk+Small+Portable+Charger+with+Built-in+Lightning+Connector&tag=thedailysco0d-20)
 
 **Price:** $25 - $35  
 

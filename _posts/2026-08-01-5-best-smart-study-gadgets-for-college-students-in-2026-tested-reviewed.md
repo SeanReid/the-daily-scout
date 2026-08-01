@@ -15,16 +15,16 @@ After testing dozens of viral desk accessories and focus tools, I narrowed down 
 ---
 
 ### Our Top Pick: TickTime Hexagon Digital Pomodoro Timer
-
-<a href="https://www.amazon.com/s?k=Our+Top+Pick%3A+TickTime+Hexagon+Digital+Pomodoro+Timer&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
-
 If you can only buy one tool to rescue your GPA this semester, make it the **TickTime Hexagon Timer**. It turns abstract study goals into a physical countdown, making deep work friction-free.
 
 ---
 
 ### 1. TickTime Hexagon Digital Pomodoro Timer
 
-<a href="https://www.amazon.com/s?k=TickTime+Hexagon+Digital+Pomodoro+Timer&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![TickTime Hexagon Digital Pomodoro Timer](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=TickTime+Hexagon+Digital+Pomodoro+Timer&tag=thedailysco0d-20)
 
 **Price Range:** $30 - $42
 
@@ -41,7 +41,10 @@ If phone distractions and brain fog keep ruining your study sessions, the TickTi
 
 ### 2. Rocketbook Core Reusable Smart Spiral Notebook
 
-<a href="https://www.amazon.com/s?k=Rocketbook+Core+Reusable+Smart+Spiral+Notebook&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Rocketbook Core Reusable Smart Spiral Notebook](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Rocketbook+Core+Reusable+Smart+Spiral+Notebook&tag=thedailysco0d-20)
 
 **Price Range:** $30 - $40
 
@@ -58,7 +61,10 @@ Carrying five heavy spiral notebooks across campus is officially a thing of the 
 
 ### 3. Loop Engage Plus Noise-Filtering Earplugs
 
-<a href="https://www.amazon.com/s?k=Loop+Engage+Plus+Noise-Filtering+Earplugs&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Loop Engage Plus Noise-Filtering Earplugs](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Loop+Engage+Plus+Noise-Filtering+Earplugs&tag=thedailysco0d-20)
 
 **Price Range:** $35 - $45
 
@@ -75,7 +81,10 @@ Studying in noisy dorm common rooms or bustling campus coffee shops usually requ
 
 ### 4. Phomemo D30 Mini Bluetooth Label Maker
 
-<a href="https://www.amazon.com/s?k=Phomemo+D30+Mini+Bluetooth+Label+Maker&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Phomemo D30 Mini Bluetooth Label Maker](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Phomemo+D30+Mini+Bluetooth+Label+Maker&tag=thedailysco0d-20)
 
 **Price Range:** $28 - $38
 
@@ -92,7 +101,10 @@ The Phomemo D30 is the viral secret behind those picture-perfect TikTok and Pint
 
 ### 5. Nulaxy Ergonomic Foldable Aluminum Laptop Stand
 
-<a href="https://www.amazon.com/s?k=Nulaxy+Ergonomic+Foldable+Aluminum+Laptop+Stand&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Nulaxy Ergonomic Foldable Aluminum Laptop Stand](https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Nulaxy+Ergonomic+Foldable+Aluminum+Laptop+Stand&tag=thedailysco0d-20)
 
 **Price Range:** $25 - $35
 
@@ -109,7 +121,10 @@ Hunching over a low laptop screen on library tables leads to severe neck strain 
 
 ### Comparison Table
 
-<a href="https://www.amazon.com/s?k=Comparison+Table&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Comparison Table](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Comparison+Table&tag=thedailysco0d-20)
 
 
 | Product | Standout Feature | Primary Benefit | Target Student |

@@ -13,7 +13,10 @@ After testing over 15 pairs of budget-friendly cans, I’ve narrowed it down to 
 
 ### **Our Top Pick: Soundcore by Anker Life Q30**
 
-<a href="https://www.amazon.com/s?k=%2A%2AOur+Top+Pick%3A+Soundcore+by+Anker+Life+Q30%2A%2A&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![**Our Top Pick: Soundcore by Anker Life Q30**](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=%2A%2AOur+Top+Pick%3A+Soundcore+by+Anker+Life+Q30%2A%2A&tag=thedailysco0d-20)
 
 If you want the absolute best bang for your buck, stop reading and just buy these. The ANC performance rivals headphones triple the price, and the battery life is legendary.
 
@@ -21,7 +24,10 @@ If you want the absolute best bang for your buck, stop reading and just buy thes
 
 ### 1. Soundcore by Anker Life Q30 Hybrid ANC Headphones
 
-<a href="https://www.amazon.com/s?k=Soundcore+by+Anker+Life+Q30+Hybrid+ANC+Headphones&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Soundcore by Anker Life Q30 Hybrid ANC Headphones](https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Soundcore+by+Anker+Life+Q30+Hybrid+ANC+Headphones&tag=thedailysco0d-20)
 
 **Price:** ~$60-75
 
@@ -35,7 +41,10 @@ The Soundcore Q30 is the undisputed king of the budget category. With multiple t
 
 ### 2. Sony WH-CH720N Noise Canceling Wireless Headphones
 
-<a href="https://www.amazon.com/s?k=Sony+WH-CH720N+Noise+Canceling+Wireless+Headphones&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Sony WH-CH720N Noise Canceling Wireless Headphones](https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Sony+WH-CH720N+Noise+Canceling+Wireless+Headphones&tag=thedailysco0d-20)
 
 **Price:** ~$65-75
 
@@ -49,7 +58,10 @@ Sony took the processor from their $400 headphones and put it in this budget-fri
 
 ### 3. JBL Tune 760NC Lightweight Foldable Headphones
 
-<a href="https://www.amazon.com/s?k=JBL+Tune+760NC+Lightweight+Foldable+Headphones&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![JBL Tune 760NC Lightweight Foldable Headphones](https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=JBL+Tune+760NC+Lightweight+Foldable+Headphones&tag=thedailysco0d-20)
 
 **Price:** ~$50-70
 
@@ -63,7 +75,10 @@ If you care about the 'aesthetic' of your study setup as much as the sound, the 
 
 ### 4. Sennheiser HD 350BT Wireless Headphones
 
-<a href="https://www.amazon.com/s?k=Sennheiser+HD+350BT+Wireless+Headphones&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Sennheiser HD 350BT Wireless Headphones](https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Sennheiser+HD+350BT+Wireless+Headphones&tag=thedailysco0d-20)
 
 **Price:** ~$60-75
 
@@ -77,7 +92,10 @@ Sennheiser is usually reserved for audiophiles with deep pockets, but the HD 350
 
 ### 5. Philips H4205 On-Ear Wireless Headphones with Bass Boost
 
-<a href="https://www.amazon.com/s?k=Philips+H4205+On-Ear+Wireless+Headphones+with+Bass+Boost&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Philips H4205 On-Ear Wireless Headphones with Bass Boost](https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Philips+H4205+On-Ear+Wireless+Headphones+with+Bass+Boost&tag=thedailysco0d-20)
 
 **Price:** ~$40-55
 
@@ -93,7 +111,10 @@ For the student on a strict budget, the Philips H4205 is a total sleeper hit. Th
 
 ### **Quick Comparison Table**
 
-<a href="https://www.amazon.com/s?k=%2A%2AQuick+Comparison+Table%2A%2A&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![**Quick Comparison Table**](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=%2A%2AQuick+Comparison+Table%2A%2A&tag=thedailysco0d-20)
 
 
 | Model | Price Range | Best For | Key Feature |
@@ -106,7 +127,10 @@ For the student on a strict budget, the Philips H4205 is a total sleeper hit. Th
 
 ### **Final Recommendation**
 
-<a href="https://www.amazon.com/s?k=%2A%2AFinal+Recommendation%2A%2A&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![**Final Recommendation**](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=%2A%2AFinal+Recommendation%2A%2A&tag=thedailysco0d-20)
 
 If you are looking for the absolute **best headphones under 75** for studying, go with the **Soundcore by Anker Life Q30**. They offer the most complete package: industry-leading noise cancellation, a great app, and enough battery life to last a full week of midterms. For those who want something lighter for all-day wear, the **Sony WH-CH720N** is a very close second. 
 

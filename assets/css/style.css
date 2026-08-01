@@ -1,5 +1,5 @@
 /* ==========================================================================
-   THE DAILY SCOUT — WIRECUTTER-GRADE DESIGN SYSTEM (2026 EDITION)
+   THE DAILY SCOUT — PREMIUM WIRECUTTER-GRADE DESIGN SYSTEM (2026 EDITION)
    ========================================================================== */
 
 /* === CSS Custom Properties === */
@@ -196,70 +196,6 @@ body {
   border-radius: 20px;
 }
 
-/* === Wirecutter Top Summary Box === */
-.wirecutter-summary {
-  background: #ffffff;
-  border: 2px solid var(--slate-200);
-  border-radius: var(--radius-lg);
-  padding: 1.75rem;
-  margin-bottom: 2.5rem;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
-}
-
-.wirecutter-summary-title {
-  font-family: var(--font-heading);
-  font-size: 1.2rem;
-  font-weight: 800;
-  color: var(--slate-900);
-  margin-bottom: 1rem;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  border-bottom: 2px solid var(--slate-100);
-  padding-bottom: 0.5rem;
-}
-
-.summary-picks-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1rem;
-  margin-top: 1rem;
-}
-
-.summary-pick-card {
-  background: var(--slate-50);
-  border: 1px solid var(--slate-200);
-  border-radius: var(--radius-md);
-  padding: 1rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.pick-badge-overall {
-  background: var(--amber-500);
-  color: var(--slate-900);
-  font-size: 0.75rem;
-  font-weight: 800;
-  padding: 0.2rem 0.5rem;
-  border-radius: 4px;
-  text-transform: uppercase;
-  align-self: flex-start;
-  margin-bottom: 0.5rem;
-}
-
-.pick-badge-value {
-  background: var(--emerald-600);
-  color: #fff;
-  font-size: 0.75rem;
-  font-weight: 800;
-  padding: 0.2rem 0.5rem;
-  border-radius: 4px;
-  text-transform: uppercase;
-  align-self: flex-start;
-  margin-bottom: 0.5rem;
-}
-
 /* === Affiliate Disclosure Banner === */
 .affiliate-disclosure {
   background: #fffbebfb;
@@ -292,110 +228,53 @@ body {
   line-height: 1.8;
 }
 
-.post-content h2 {
+.post-content h2, .post-content h3 {
   font-family: var(--font-heading);
-  font-size: 1.65rem;
+  font-size: 1.55rem;
   font-weight: 800;
   color: var(--slate-900);
-  margin-top: 2.75rem;
+  margin-top: 2.5rem;
   margin-bottom: 1rem;
   line-height: 1.3;
   border-bottom: 2px solid var(--slate-100);
   padding-bottom: 0.5rem;
 }
 
-/* === Product Card Container === */
-.product-showcase-card {
-  background: var(--slate-50);
-  border: 1px solid var(--slate-200);
-  border-radius: var(--radius-lg);
-  padding: 1.75rem;
-  margin: 2rem 0;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
-}
-
-.product-img-wrapper {
-  text-align: center;
-  margin: 1.25rem 0;
-  background: #ffffff;
-  padding: 1.5rem;
+/* === High-Resolution Product Images === */
+.post-content img {
+  width: 100%;
+  max-height: 380px;
+  object-fit: cover;
   border-radius: var(--radius-md);
+  margin: 1.25rem 0;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
   border: 1px solid var(--slate-200);
-}
-
-.product-img-wrapper img {
-  max-width: 100%;
-  max-height: 280px;
-  object-fit: contain;
-  border-radius: 8px;
 }
 
 /* === High-Converting Amazon Gold Buttons === */
-.post-content a[href*="amazon.com"], .amazon-gold-btn {
+.post-content a[href*="amazon.com"] {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 0.75rem;
+  gap: 0.65rem;
   background: linear-gradient(135deg, #ff9900, #ffaa00);
   color: #0f172a !important;
   font-family: var(--font-heading);
   font-weight: 800;
   font-size: 1.05rem;
-  padding: 0.95rem 2.25rem;
+  padding: 0.85rem 1.85rem;
   border-radius: var(--radius-md);
   text-decoration: none !important;
   box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);
   transition: all 0.25s ease;
-  margin: 1.25rem 0 2rem;
+  margin: 0.75rem 0 1.75rem;
   cursor: pointer;
 }
 
-.post-content a[href*="amazon.com"]:hover, .amazon-gold-btn:hover {
+.post-content a[href*="amazon.com"]:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 22px rgba(255, 153, 0, 0.55);
   background: linear-gradient(135deg, #ffaa00, #ffbb00);
-}
-
-.post-content a[href*="amazon.com"]::after, .amazon-gold-btn::after {
-  content: "→";
-  font-size: 1.2rem;
-  transition: transform 0.2s ease;
-}
-
-.post-content a[href*="amazon.com"]:hover::after, .amazon-gold-btn:hover::after {
-  transform: translateX(4px);
-}
-
-/* === Pros & Cons Grid === */
-.pros-cons-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1rem;
-  margin: 1.5rem 0;
-  font-size: 0.95rem;
-}
-
-.pros-box {
-  background: #f0fdf4;
-  border: 1px solid #bbf7d0;
-  border-radius: var(--radius-md);
-  padding: 1rem;
-  color: #166534;
-}
-
-.cons-box {
-  background: #fff1f2;
-  border: 1px solid #fecdd3;
-  border-radius: var(--radius-md);
-  padding: 1rem;
-  color: #9f1239;
-}
-
-.pros-box h4, .cons-box h4 {
-  font-weight: 800;
-  font-size: 0.9rem;
-  text-transform: uppercase;
-  margin-bottom: 0.5rem;
 }
 
 /* === Footer === */
@@ -418,7 +297,7 @@ body {
 }
 
 @media (max-width: 640px) {
-  .pros-cons-grid { grid-template-columns: 1fr; }
   .post-title { font-size: 1.75rem; }
   .post-content { padding: 1.5rem 1.25rem; }
+  .post-content a[href*="amazon.com"] { display: flex; width: 100%; text-align: center; }
 }

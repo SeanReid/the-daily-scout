@@ -16,7 +16,10 @@ After reviewing dozens of tech accessories, I’ve put together this Mother's Da
 
 ### 🏆 Our Top Pick: ESR HaloLock 3-in-1 Wireless Charging Station
 
-<a href="https://www.amazon.com/s?k=%F0%9F%8F%86+Our+Top+Pick%3A+ESR+HaloLock+3-in-1+Wireless+Charging+Station&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![🏆 Our Top Pick: ESR HaloLock 3-in-1 Wireless Charging Station](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=%F0%9F%8F%86+Our+Top+Pick%3A+ESR+HaloLock+3-in-1+Wireless+Charging+Station&tag=thedailysco0d-20)
 
 **Price:** $55 - $70
 
@@ -39,7 +42,10 @@ If you only buy one thing from this list, make it this. We've all seen that one 
 
 ### 2. Anker Soundcore Motion 300 Bluetooth Speaker
 
-<a href="https://www.amazon.com/s?k=Anker+Soundcore+Motion+300+Bluetooth+Speaker&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Anker Soundcore Motion 300 Bluetooth Speaker](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Anker+Soundcore+Motion+300+Bluetooth+Speaker&tag=thedailysco0d-20)
 
 **Price:** $60 - $75
 
@@ -62,7 +68,10 @@ For the mom who loves hosting backyard dinners or listening to podcasts while wo
 
 ### 3. Peak Design Tech Pouch (Midnight)
 
-<a href="https://www.amazon.com/s?k=Peak+Design+Tech+Pouch&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Peak Design Tech Pouch](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Peak+Design+Tech+Pouch&tag=thedailysco0d-20)
 
 **Price:** $55 - $65
 
@@ -85,7 +94,10 @@ If she travels often or commutes with a laptop bag, the Peak Design Tech Pouch w
 
 ### 4. Twelve South AirFly Pro Bluetooth Transmitter
 
-<a href="https://www.amazon.com/s?k=Twelve+South+AirFly+Pro+Bluetooth+Transmitter&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Twelve South AirFly Pro Bluetooth Transmitter](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Twelve+South+AirFly+Pro+Bluetooth+Transmitter&tag=thedailysco0d-20)
 
 **Price:** $45 - $55
 
@@ -108,7 +120,10 @@ This is the ultimate travel essential for women who fly. There is nothing more f
 
 ### 5. Tile Pro (2-Pack) High-Performance Bluetooth Tracker
 
-<a href="https://www.amazon.com/s?k=Tile+Pro+High-Performance+Bluetooth+Tracker&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Tile Pro High-Performance Bluetooth Tracker](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Tile+Pro+High-Performance+Bluetooth+Tracker&tag=thedailysco0d-20)
 
 **Price:** $45 - $60
 

@@ -15,7 +15,10 @@ You're about to move into a tiny 12x12 cinderblock room, and trust me, you are n
 As graduation season approaches, the reality of moving into a freshman dorm starts to set in. If you are hunting for the best college graduation gifts or just building your own dorm tech list for fall 2026, let me save you some serious headaches. After helping three siblings move into cramped campus housing and testing endless gadgets, I have narrowed down the absolute must-haves. Skip the generic mini-fridges; what freshmen actually need are smart, space-saving solutions to survive dorm life. Here are the top 5 dorm room essentials 2026 graduates actually want.
 ### 🏆 Our Top Pick: [Anker 735 Charger (GaNPrime 65W)](https://www.amazon.com/dp/B09C5RG6KV?tag=) — ($45-$60)
 
-<a href="https://www.amazon.com/s?k=%F0%9F%8F%86+Our+Top+Pick%3A+%5BAnker+735+Charger%5D+%E2%80%94&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![🏆 Our Top Pick: [Anker 735 Charger] —](https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=%F0%9F%8F%86+Our+Top+Pick%3A+%5BAnker+735+Charger%5D+%E2%80%94&tag=thedailysco0d-20)
 
 **The Problem Solver for Outlet Wars**
 
@@ -34,7 +37,10 @@ Let's talk about the biggest lie of college: that your dorm will have enough out
 
 ### 2. [Govee RGBIC Smart Table Lamp](https://www.amazon.com/dp/B099Z9CHPC?tag=) — ($45-$65)
 
-<a href="https://www.amazon.com/s?k=%5BGovee+RGBIC+Smart+Table+Lamp%5D+%E2%80%94&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![[Govee RGBIC Smart Table Lamp] —](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=%5BGovee+RGBIC+Smart+Table+Lamp%5D+%E2%80%94&tag=thedailysco0d-20)
 
 **The Ultimate Freshman Dorm Decor Upgrade**
 
@@ -53,7 +59,10 @@ Dorm room lighting is notoriously awful—think sterile, hospital-grade fluoresc
 
 ### 3. [Logitech Pebble 2 Combo Slim Keyboard/Mouse](https://www.amazon.com/dp/B0C5S89N6Y?tag=) — ($50-$65)
 
-<a href="https://www.amazon.com/s?k=%5BLogitech+Pebble+2+Combo+Slim+Keyboard%2FMouse%5D+%E2%80%94&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![[Logitech Pebble 2 Combo Slim Keyboard/Mouse] —](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=%5BLogitech+Pebble+2+Combo+Slim+Keyboard%2FMouse%5D+%E2%80%94&tag=thedailysco0d-20)
 
 **The Library Hopper's Best Friend**
 
@@ -72,7 +81,10 @@ When you are constantly moving between the coffee shop, the lecture hall, and yo
 
 ### 4. [Moft Invisible Slim Laptop Stand](https://www.amazon.com/dp/B07Z4S9M7P?tag=) — ($25-$30)
 
-<a href="https://www.amazon.com/s?k=%5BMoft+Invisible+Slim+Laptop+Stand%5D+%E2%80%94&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![[Moft Invisible Slim Laptop Stand] —](https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=%5BMoft+Invisible+Slim+Laptop+Stand%5D+%E2%80%94&tag=thedailysco0d-20)
 
 **Ergonomic Relief for Cramped Desks**
 
@@ -91,7 +103,10 @@ Dorm desks are tiny, and hunching over a laptop for four years is a one-way tick
 
 ### 5. [6ft Braided USB-C Charging Cables (3-pack)](https://www.amazon.com/s?k=6ft+braided+usb-c+cable+3+pack&tag=) — ($25-$35)
 
-<a href="https://www.amazon.com/s?k=%5B6ft+Braided+USB-C+Charging+Cables%5D+%E2%80%94&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![[6ft Braided USB-C Charging Cables] —](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=%5B6ft+Braided+USB-C+Charging+Cables%5D+%E2%80%94&tag=thedailysco0d-20)
 
 **The Unsung Heroes of Dorm Life**
 
@@ -110,7 +125,10 @@ Listen, standard 3-foot charging cables are useless in a dorm room where the nea
 
 ### The Final Verdict: What Do You Actually Need?
 
-<a href="https://www.amazon.com/s?k=The+Final+Verdict%3A+What+Do+You+Actually+Need%3F&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![The Final Verdict: What Do You Actually Need?](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=The+Final+Verdict%3A+What+Do+You+Actually+Need%3F&tag=thedailysco0d-20)
 
 
 If you are buying a high school grad gift, you want something they will actually use instead of tossing it in a drawer. My ultimate recommendation? Get the **Anker 735 Charger**. It solves the universal college problem of dead batteries and scarce outlets.

@@ -18,7 +18,10 @@ After completely overhauling my own content engine and testing dozens of workflo
 
 ### 1. Elgato Stream Deck MK.2 (Our Top Pick)
 
-<a href="https://www.amazon.com/s?k=Elgato+Stream+Deck+MK.2&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Elgato Stream Deck MK.2](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Elgato+Stream+Deck+MK.2&tag=thedailysco0d-20)
 
 
 If you are serious about SEO in the AI era, you need to automate your prompting. The Elgato Stream Deck isn't just for Twitch streamers anymore; it is the ultimate AI writer's secret weapon.
@@ -38,7 +41,10 @@ I have mine programmed with custom multi-action macros. With one button press, I
 
 ### 2. "Co-Intelligence: Living and Working with AI" by Ethan Mollick
 
-<a href="https://www.amazon.com/s?k=%22Co-Intelligence%3A+Living+and+Working+with+AI%22+by+Ethan+Mollick&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+!["Co-Intelligence: Living and Working with AI" by Ethan Mollick](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=%22Co-Intelligence%3A+Living+and+Working+with+AI%22+by+Ethan+Mollick&tag=thedailysco0d-20)
 
 
 You cannot optimize for AI if you don't fundamentally understand how it "thinks." While there are plenty of technical manuals out there, Ethan Mollick's *Co-Intelligence* is the absolute best guide for understanding the practical application of LLMs.
@@ -57,7 +63,10 @@ To get cited by SearchGPT, your content needs to feed the LLM exactly what it's 
 
 ### 3. Samsung 34-Inch Odyssey G5 Ultra-Wide Monitor
 
-<a href="https://www.amazon.com/s?k=Samsung+34-Inch+Odyssey+G5+Ultra-Wide+Monitor&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Samsung 34-Inch Odyssey G5 Ultra-Wide Monitor](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Samsung+34-Inch+Odyssey+G5+Ultra-Wide+Monitor&tag=thedailysco0d-20)
 
 
 Ranking on Perplexity requires deep comparative research. You can no longer just write in a single Google Doc. My workflow requires having SearchGPT open on the left, Perplexity in the middle, and my markdown editor on the right. 
@@ -77,7 +86,10 @@ Switching tabs destroys your focus. Upgrading to the Samsung 34-Inch Ultra-Wide 
 
 ### 4. Logitech MX Keys S Advanced Wireless Keyboard
 
-<a href="https://www.amazon.com/s?k=Logitech+MX+Keys+S+Advanced+Wireless+Keyboard&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Logitech MX Keys S Advanced Wireless Keyboard](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Logitech+MX+Keys+S+Advanced+Wireless+Keyboard&tag=thedailysco0d-20)
 
 
 When you are building entity-dense content to feed AI search engines, you are going to be typing. A lot. The Logitech MX Keys S is the gold standard for heavy-duty typing.
@@ -96,7 +108,10 @@ Unlike clunky mechanical keyboards that can fatigue your fingers over an 8-hour 
 
 ### 5. Blue Yeti USB Microphone
 
-<a href="https://www.amazon.com/s?k=Blue+Yeti+USB+Microphone&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Blue Yeti USB Microphone](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Blue+Yeti+USB+Microphone&tag=thedailysco0d-20)
 
 
 Here is a massive secret for ranking in 2026: Information Gain. AI search engines heavily penalize derivative content. If you just copy what's already out there, Perplexity will ignore you. You need original insights. 
@@ -115,7 +130,10 @@ The fastest way to generate original insights is to speak them. I use the Blue Y
 
 ### Summary Comparison
 
-<a href="https://www.amazon.com/s?k=Summary+Comparison&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Summary Comparison](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Summary+Comparison&tag=thedailysco0d-20)
 
 
 | Product | Best For | Price Range | Rating |
@@ -128,7 +146,10 @@ The fastest way to generate original insights is to speak them. I use the Blue Y
 
 ### Final Recommendation
 
-<a href="https://www.amazon.com/s?k=Final+Recommendation&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Final Recommendation](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Final+Recommendation&tag=thedailysco0d-20)
 
 
 If you only have the budget to upgrade one piece of your AI content workflow today, get the **Elgato Stream Deck MK.2**. The sheer amount of time you save by mapping your most complex Perplexity and SearchGPT prompts to physical buttons is staggering. It will pay for itself in saved time within the first week. Combine that with a deep understanding of entity-oriented search, and you will be dominating the new Answer Engines in no time.

@@ -16,9 +16,6 @@ Whether they are heading off to college or stepping into their first real-world 
 
 ### Our Top Pick: Rocketbook Pro with Premium Vegan Leather Cover
 
-<a href="https://www.amazon.com/s?k=Our+Top+Pick%3A+Rocketbook+Pro+with+Premium+Vegan+Leather+Cover&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
-
-
 If you want to impress a new grad, this is the one. It looks executive, feels incredibly premium, and functions flawlessly. It's the perfect companion for walking into a big meeting or a college lecture hall.
 
 Let's dive into the full list!
@@ -27,7 +24,10 @@ Let's dive into the full list!
 
 ### 1. Rocketbook Fusion Smart Reusable Notebook
 
-<a href="https://www.amazon.com/s?k=Rocketbook+Fusion+Smart+Reusable+Notebook&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Rocketbook Fusion Smart Reusable Notebook](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Rocketbook+Fusion+Smart+Reusable+Notebook&tag=thedailysco0d-20)
 
 
 **Price:** $30 - $40
@@ -48,7 +48,10 @@ The Rocketbook Fusion is basically the undisputed king of the smart notebook wor
 
 ### 2. Moleskine Smart Writing Set Accessory (Smart Pen Case)
 
-<a href="https://www.amazon.com/s?k=Moleskine+Smart+Writing+Set+Accessory&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Moleskine Smart Writing Set Accessory](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Moleskine+Smart+Writing+Set+Accessory&tag=thedailysco0d-20)
 
 
 **Price:** $25 - $40
@@ -67,7 +70,10 @@ Moleskine is the gold standard for luxury journaling, and their smart writing ec
 
 ### 3. Rocketbook Pro with Premium Vegan Leather Cover
 
-<a href="https://www.amazon.com/s?k=Rocketbook+Pro+with+Premium+Vegan+Leather+Cover&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Rocketbook Pro with Premium Vegan Leather Cover](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Rocketbook+Pro+with+Premium+Vegan+Leather+Cover&tag=thedailysco0d-20)
 
 
 **Price:** $50 - $65
@@ -87,7 +93,10 @@ As mentioned in our top pick, the Rocketbook Pro takes everything great about th
 
 ### 4. Boogie Board Blackboard Smart Reusable Letter Pad
 
-<a href="https://www.amazon.com/s?k=Boogie+Board+Blackboard+Smart+Reusable+Letter+Pad&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Boogie Board Blackboard Smart Reusable Letter Pad](https://images.unsplash.com/photo-1616401784845-180882ba9ba8?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Boogie+Board+Blackboard+Smart+Reusable+Letter+Pad&tag=thedailysco0d-20)
 
 
 **Price:** $40 - $55
@@ -108,7 +117,10 @@ The Boogie Board Blackboard is a totally different take on the best smart notebo
 
 ### 5. Thinkers Smart Notebook with App Integration
 
-<a href="https://www.amazon.com/s?k=Thinkers+Smart+Notebook+with+App+Integration&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Thinkers Smart Notebook with App Integration](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Thinkers+Smart+Notebook+with+App+Integration&tag=thedailysco0d-20)
 
 
 **Price:** $35 - $50

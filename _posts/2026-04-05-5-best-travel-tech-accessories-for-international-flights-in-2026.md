@@ -13,7 +13,10 @@ Here are the 5 best travel tech accessories that will completely transform your 
 
 ### 1. 65W GaN Multi-Port Fast Wall Charger
 
-<a href="https://www.amazon.com/s?k=65W+GaN+Multi-Port+Fast+Wall+Charger&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![65W GaN Multi-Port Fast Wall Charger](https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=65W+GaN+Multi-Port+Fast+Wall+Charger&tag=thedailysco0d-20)
 
 
 Gone are the days of packing three different bulky charging bricks for your laptop, phone, and tablet. This 65W GaN (Gallium Nitride) charger is incredibly compact but packs enough power to fast-charge your MacBook and iPhone simultaneously. It's an absolute lifesaver in cramped airport lounges or hotel rooms with only one accessible outlet.
@@ -24,7 +27,10 @@ Gone are the days of packing three different bulky charging bricks for your lapt
 
 ### 2. Universal Airplane Bluetooth Audio Transmitter
 
-<a href="https://www.amazon.com/s?k=Universal+Airplane+Bluetooth+Audio+Transmitter&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Universal Airplane Bluetooth Audio Transmitter](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Universal+Airplane+Bluetooth+Audio+Transmitter&tag=thedailysco0d-20)
 
 
 There is nothing more frustrating than having a premium pair of wireless earbuds, only to be forced to use the airline's terrible, flimsy wired headphones to watch an in-flight movie. This little dongle plugs directly into the armrest jack and broadcasts the audio via Bluetooth to your AirPods or noise-canceling headphones. It's a total game-changer for long flights.
@@ -35,7 +41,10 @@ There is nothing more frustrating than having a premium pair of wireless earbuds
 
 ### 3. MagSafe Portable Power Bank with Built-in Stand
 
-<a href="https://www.amazon.com/s?k=MagSafe+Portable+Power+Bank+with+Built-in+Stand&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![MagSafe Portable Power Bank with Built-in Stand](https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=MagSafe+Portable+Power+Bank+with+Built-in+Stand&tag=thedailysco0d-20)
 
 
 **⭐ OUR TOP PICK ⭐**
@@ -48,7 +57,10 @@ If you only buy one thing on this list, make it this MagSafe power bank. Not onl
 
 ### 4. Water-Resistant Tech Organizer Travel Case
 
-<a href="https://www.amazon.com/s?k=Water-Resistant+Tech+Organizer+Travel+Case&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Water-Resistant Tech Organizer Travel Case](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Water-Resistant+Tech+Organizer+Travel+Case&tag=thedailysco0d-20)
 
 
 Stop throwing expensive cords and adapters into the bottom of your personal item. This sleek, water-resistant tech organizer features smart compartments and elastic loops to keep every cable, dongle, and SD card perfectly in place. When you need something mid-flight, you just pull out the case, unzip it, and everything is right where you left it.
@@ -59,7 +71,10 @@ Stop throwing expensive cords and adapters into the bottom of your personal item
 
 ### 5. Noise-Canceling Bluetooth Sleep Headphones Mask
 
-<a href="https://www.amazon.com/s?k=Noise-Canceling+Bluetooth+Sleep+Headphones+Mask&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Noise-Canceling Bluetooth Sleep Headphones Mask](https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Noise-Canceling+Bluetooth+Sleep+Headphones+Mask&tag=thedailysco0d-20)
 
 
 Trying to sleep on a red-eye flight while the person next to you has their reading light on is miserable. This comfortable, contoured sleep mask blocks out 100% of the light while delivering soothing white noise, podcasts, or music through flat, built-in Bluetooth speakers that don't dig into your ears. It is the closest thing to upgrading to first-class sleep on an economy ticket.

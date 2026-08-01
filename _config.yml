@@ -7,6 +7,11 @@ future: true
 
 # Build
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -20,7 +25,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "The Daily Scout"
+      author: "The Daily Scout Editorial Team"
 
 # Exclude from build
 exclude:

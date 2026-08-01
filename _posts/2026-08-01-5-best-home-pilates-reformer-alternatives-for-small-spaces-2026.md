@@ -16,7 +16,10 @@ After testing dozens of compact workout tools, I have identified the 5 absolute 
 
 ### OUR TOP PICK
 
-<a href="https://www.amazon.com/s?k=OUR+TOP+PICK&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![OUR TOP PICK](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=OUR+TOP+PICK&tag=thedailysco0d-20)
 
 If you only buy one item from this list, make it the **Empower Portable Pilates Bar Kit**. It closest mimics the springs, foot straps, and tension movements of a traditional studio reformer without taking up a single foot of permanent floor space.
 
@@ -24,7 +27,10 @@ If you only buy one item from this list, make it the **Empower Portable Pilates 
 
 ### 1. Empower Portable Pilates Bar Kit with Resistance Bands
 
-<a href="https://www.amazon.com/s?k=Empower+Portable+Pilates+Bar+Kit+with+Resistance+Bands&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Empower Portable Pilates Bar Kit with Resistance Bands](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Empower+Portable+Pilates+Bar+Kit+with+Resistance+Bands&tag=thedailysco0d-20)
 
 **Our Top Pick for Full Body Reformer Moves**
 

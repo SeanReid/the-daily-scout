@@ -15,7 +15,10 @@ Over the past month, I’ve generated over 1,000 realistic portraits testing the
 After maxing out my system (and testing several upgrades), here are the 5 essential pieces of hardware you need to actually run these models efficiently, whether you're generating locally or just managing massive cloud downloads.
 ### 1. The Local Powerhouse: NVIDIA GeForce RTX 4090
 
-<a href="https://www.amazon.com/s?k=The+Local+Powerhouse%3A+NVIDIA+GeForce+RTX+4090&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![The Local Powerhouse: NVIDIA GeForce RTX 4090](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=The+Local+Powerhouse%3A+NVIDIA+GeForce+RTX+4090&tag=thedailysco0d-20)
 
 
 **Price:** Premium
@@ -29,9 +32,6 @@ If you are running Flux 2.0 locally (which is where it truly shines for uncensor
 
 ### 2. Our Top Pick: Apple MacBook Pro M3 Max (128GB Unified Memory)
 
-<a href="https://www.amazon.com/s?k=Our+Top+Pick%3A+Apple+MacBook+Pro+M3+Max&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
-
-
 **Price:** Premium
 
 Wait, a Mac for AI? Yes. Apple's unified memory architecture means that 128GB of RAM can be utilized as VRAM. While raw generation speeds might be slightly slower than a dedicated 4090 desktop, the ability to load massive, unquantized models locally on a laptop is game-changing. This is what I use daily. 
@@ -43,7 +43,10 @@ Wait, a Mac for AI? Yes. Apple's unified memory architecture means that 128GB of
 
 ### 3. The Storage Beast: Samsung 990 PRO 4TB NVMe SSD
 
-<a href="https://www.amazon.com/s?k=The+Storage+Beast%3A+Samsung+990+PRO+4TB+NVMe+SSD&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![The Storage Beast: Samsung 990 PRO 4TB NVMe SSD](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=The+Storage+Beast%3A+Samsung+990+PRO+4TB+NVMe+SSD&tag=thedailysco0d-20)
 
 
 **Price:** Mid-Range
@@ -57,7 +60,10 @@ Here's the dirty secret of AI generation: the models are huge. A single Flux mod
 
 ### 4. The Color-Accurate Canvas: ASUS ProArt Display PA329CV 32”
 
-<a href="https://www.amazon.com/s?k=The+Color-Accurate+Canvas%3A+ASUS+ProArt+Display+PA329CV+32%E2%80%9D&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![The Color-Accurate Canvas: ASUS ProArt Display PA329CV 32”](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=The+Color-Accurate+Canvas%3A+ASUS+ProArt+Display+PA329CV+32%E2%80%9D&tag=thedailysco0d-20)
 
 
 **Price:** Mid-Range
@@ -71,7 +77,10 @@ What's the point of generating hyper-realistic, 4K portraits if you're viewing t
 
 ### 5. The Workflow Optimizer: Elgato Stream Deck+
 
-<a href="https://www.amazon.com/s?k=The+Workflow+Optimizer%3A+Elgato+Stream+Deck%2B&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![The Workflow Optimizer: Elgato Stream Deck+](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=The+Workflow+Optimizer%3A+Elgato+Stream+Deck%2B&tag=thedailysco0d-20)
 
 
 **Price:** Budget/Mid-Range

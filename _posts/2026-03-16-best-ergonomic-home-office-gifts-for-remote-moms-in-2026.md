@@ -18,7 +18,10 @@ If you only buy one thing on this list, make it the foot rest. It's the ultimate
 
 ### 1. Bamboo Monitor Stand Riser with Organizers
 
-<a href="https://www.amazon.com/s?k=Bamboo+Monitor+Stand+Riser+with+Organizers&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Bamboo Monitor Stand Riser with Organizers](https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Bamboo+Monitor+Stand+Riser+with+Organizers&tag=thedailysco0d-20)
 
 **Price:** $35 - $45
 
@@ -39,7 +42,10 @@ When it comes to building an ergonomic desk setup for moms, the very first step 
 
 ### 2. Dimmable LED Screen Bar with Touch Control
 
-<a href="https://www.amazon.com/s?k=Dimmable+LED+Screen+Bar+with+Touch+Control&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Dimmable LED Screen Bar with Touch Control](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Dimmable+LED+Screen+Bar+with+Touch+Control&tag=thedailysco0d-20)
 
 **Price:** $50 - $65
 
@@ -60,7 +66,10 @@ Whether she's up early to get ahead of the kids or burning the midnight oil, pro
 
 ### 3. Memory Foam Ergonomic Foot Rest
 
-<a href="https://www.amazon.com/s?k=Memory+Foam+Ergonomic+Foot+Rest&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Memory Foam Ergonomic Foot Rest](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Memory+Foam+Ergonomic+Foot+Rest&tag=thedailysco0d-20)
 
 **Price:** $30 - $40
 
@@ -81,7 +90,10 @@ Let's talk about the secret to surviving back-to-back Zoom calls: foot support. 
 
 ### 4. Smart Coffee Mug Warmer with Auto Shut-off
 
-<a href="https://www.amazon.com/s?k=Smart+Coffee+Mug+Warmer+with+Auto+Shut-off&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Smart Coffee Mug Warmer with Auto Shut-off](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Smart+Coffee+Mug+Warmer+with+Auto+Shut-off&tag=thedailysco0d-20)
 
 **Price:** $25 - $35
 
@@ -102,7 +114,10 @@ If there is one universal truth of motherhood, it's that moms rarely get to fini
 
 ### 5. Felt Large Desk Mat & Mouse Pad
 
-<a href="https://www.amazon.com/s?k=Felt+Large+Desk+Mat+%26+Mouse+Pad&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![Felt Large Desk Mat & Mouse Pad](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Felt+Large+Desk+Mat+%26+Mouse+Pad&tag=thedailysco0d-20)
 
 **Price:** $25 - $35
 
@@ -125,7 +140,10 @@ Nothing upgrades the visual appeal of a desk photo quite like a textured felt de
 
 ### The Final Verdict: Which Should You Buy?
 
-<a href="https://www.amazon.com/s?k=The+Final+Verdict%3A+Which+Should+You+Buy%3F&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+![The Final Verdict: Which Should You Buy?](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=The+Final+Verdict%3A+Which+Should+You+Buy%3F&tag=thedailysco0d-20)
 
 
 Upgrading a home office doesn't have to cost thousands of dollars. These ergonomic mother's day gift ideas 2026 are affordable, incredibly practical, and heavily focused on her daily comfort.
