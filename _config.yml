@@ -3,6 +3,7 @@ description: "Curated product roundups — tested, reviewed, and ranked so you d
 url: "https://seanreid.github.io"
 baseurl: "/the-daily-scout"
 permalink: /:slug/
+future: true
 
 # Build
 markdown: kramdown
