@@ -15,11 +15,17 @@ After testing dozens of compact workout tools, I have identified the 5 absolute 
 ---
 
 ### OUR TOP PICK
+
+<a href="https://www.amazon.com/s?k=OUR+TOP+PICK&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 If you only buy one item from this list, make it the **Empower Portable Pilates Bar Kit**. It closest mimics the springs, foot straps, and tension movements of a traditional studio reformer without taking up a single foot of permanent floor space.
 
 ---
 
 ### 1. Empower Portable Pilates Bar Kit with Resistance Bands
+
+<a href="https://www.amazon.com/s?k=Empower+Portable+Pilates+Bar+Kit+with+Resistance+Bands&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Our Top Pick for Full Body Reformer Moves**
 
 The Empower Portable Pilates Bar Kit is the ultimate workhorse for apartment dwellers wanting traditional reformer workouts. Consisting of a lightweight, collapsible steel bar attached to dual resistance bands with foot loops, this set replicates footbar carriage pushes, arm straps, and chest expansions with surprising fluid control.

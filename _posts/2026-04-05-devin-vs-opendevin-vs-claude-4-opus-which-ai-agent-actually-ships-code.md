@@ -9,22 +9,6 @@ author: "The Daily Scout Editorial Team"
 ---
 
 # Devin vs. OpenDevin vs. Claude 4 Opus: Which AI Agent Actually Ships Code?
-<div class="wirecutter-summary">
-  <div class="wirecutter-summary-title">
-    <i class="fa-solid fa-trophy" style="color: #f59e0b;"></i> At A Glance: Our Top Recommendations
-  </div>
-  <div class="summary-picks-grid">
-    <div class="summary-pick-card">
-      <span class="pick-badge-overall">🏆 Our #1 Pick</span>
-      <strong>🏆 Our Top Pick: Cursor IDE (Powered by Claude 4 Opus)</strong>
-    </div>
-    <div class="summary-pick-card">
-      <span class="pick-badge-value">💰 Best Value</span>
-      <strong>Claude 4 Opus (via Claude Pro)</strong>
-    </div>
-  </div>
-</div>
-
 You're staring at a massive backlog of Jira tickets, wondering if the AI revolution is actually going to do your job or just give you more boilerplate to debug. Every week there's a new "first autonomous AI software engineer." First it was Devin. Then the open-source community struck back with OpenDevin (now OpenHands). And now, Anthropic's Claude 4 Opus is writing entire codebases from a single prompt.
 
 But which one actually *works* when you need to ship a feature by Friday?
@@ -143,5 +127,3 @@ If you want to actually build software faster right now, download **Cursor IDE**
 If you want to experiment with the future of autonomous engineering, fire up **OpenDevin**.
 
 Stop waiting for the perfect AI to do your job, and start using the tools that make you a 10x developer today.
-
-*This post contains affiliate links.

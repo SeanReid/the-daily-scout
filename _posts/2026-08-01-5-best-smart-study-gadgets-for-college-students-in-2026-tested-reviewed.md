@@ -15,11 +15,17 @@ After testing dozens of viral desk accessories and focus tools, I narrowed down 
 ---
 
 ### Our Top Pick: TickTime Hexagon Digital Pomodoro Timer
+
+<a href="https://www.amazon.com/s?k=Our+Top+Pick%3A+TickTime+Hexagon+Digital+Pomodoro+Timer&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 If you can only buy one tool to rescue your GPA this semester, make it the **TickTime Hexagon Timer**. It turns abstract study goals into a physical countdown, making deep work friction-free.
 
 ---
 
 ### 1. TickTime Hexagon Digital Pomodoro Timer
+
+<a href="https://www.amazon.com/s?k=TickTime+Hexagon+Digital+Pomodoro+Timer&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price Range:** $30 - $42
 
 If phone distractions and brain fog keep ruining your study sessions, the TickTime Hexagon is an absolute game-changer. Unlike phone apps that trick you into checking notifications under the guise of starting a timer, this physical tactile gadget works instantly: flip it to a numbered side, and your countdown starts immediately.
@@ -34,6 +40,9 @@ If phone distractions and brain fog keep ruining your study sessions, the TickTi
 ---
 
 ### 2. Rocketbook Core Reusable Smart Spiral Notebook
+
+<a href="https://www.amazon.com/s?k=Rocketbook+Core+Reusable+Smart+Spiral+Notebook&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price Range:** $30 - $40
 
 Carrying five heavy spiral notebooks across campus is officially a thing of the past. The Rocketbook Core gives you the traditional pen-to-paper handwriting feel, but lets you blast your handwritten notes directly to Google Drive, Notion, or iCloud using its companion app.
@@ -48,6 +57,9 @@ Carrying five heavy spiral notebooks across campus is officially a thing of the 
 ---
 
 ### 3. Loop Engage Plus Noise-Filtering Earplugs
+
+<a href="https://www.amazon.com/s?k=Loop+Engage+Plus+Noise-Filtering+Earplugs&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price Range:** $35 - $45
 
 Studying in noisy dorm common rooms or bustling campus coffee shops usually requires clunky over-ear headphones that squeeze your head. Loop Engage Plus offer active noise dampening without blocking out the world completely, letting you focus without feeling isolated.
@@ -62,6 +74,9 @@ Studying in noisy dorm common rooms or bustling campus coffee shops usually requ
 ---
 
 ### 4. Phomemo D30 Mini Bluetooth Label Maker
+
+<a href="https://www.amazon.com/s?k=Phomemo+D30+Mini+Bluetooth+Label+Maker&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price Range:** $28 - $38
 
 The Phomemo D30 is the viral secret behind those picture-perfect TikTok and Pinterest desk setups. This pocket-sized inkless thermal printer connects wirelessly to your phone, allowing you to organize binders, flashcard sets, cable hubs, and storage bins in seconds.
@@ -76,6 +91,9 @@ The Phomemo D30 is the viral secret behind those picture-perfect TikTok and Pint
 ---
 
 ### 5. Nulaxy Ergonomic Foldable Aluminum Laptop Stand
+
+<a href="https://www.amazon.com/s?k=Nulaxy+Ergonomic+Foldable+Aluminum+Laptop+Stand&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price Range:** $25 - $35
 
 Hunching over a low laptop screen on library tables leads to severe neck strain within 30 minutes. The Nulaxy Foldable Laptop Stand elevates your display to natural eye level, improving posture instantly while venting heat away from your computer.
@@ -90,6 +108,9 @@ Hunching over a low laptop screen on library tables leads to severe neck strain 
 ---
 
 ### Comparison Table
+
+<a href="https://www.amazon.com/s?k=Comparison+Table&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 
 | Product | Standout Feature | Primary Benefit | Target Student |
 | :--- | :--- | :--- | :--- |

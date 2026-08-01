@@ -15,6 +15,9 @@ After reviewing dozens of tech accessories, I’ve put together this Mother's Da
 ---
 
 ### 🏆 Our Top Pick: ESR HaloLock 3-in-1 Wireless Charging Station
+
+<a href="https://www.amazon.com/s?k=%F0%9F%8F%86+Our+Top+Pick%3A+ESR+HaloLock+3-in-1+Wireless+Charging+Station&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price:** $55 - $70
 
 If you only buy one thing from this list, make it this. We've all seen that one nightstand buried under a tangle of white charging cables. The ESR HaloLock elegant organization solution eliminates the mess completely. It charges an iPhone, Apple Watch, and AirPods simultaneously, all while looking like a premium piece of decor rather than a bulky tech accessory. It features CryoBoost fast charging, which keeps the phone cool and charges it faster than standard magnetic chargers.
@@ -35,6 +38,9 @@ If you only buy one thing from this list, make it this. We've all seen that one 
 ---
 
 ### 2. Anker Soundcore Motion 300 Bluetooth Speaker
+
+<a href="https://www.amazon.com/s?k=Anker+Soundcore+Motion+300+Bluetooth+Speaker&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price:** $60 - $75
 
 For the mom who loves hosting backyard dinners or listening to podcasts while working in the garden, the Anker Soundcore Motion 300 is a game-changer. It delivers premium outdoor audio in a stylish, compact form factor. Unlike those bulky, industrial-looking speakers, this one features a soft-touch finish and a detachable strap, making it incredibly giftable. The SmartTune technology automatically adjusts the EQ depending on whether it's hanging, standing, or lying flat.
@@ -55,6 +61,9 @@ For the mom who loves hosting backyard dinners or listening to podcasts while wo
 ---
 
 ### 3. Peak Design Tech Pouch (Midnight)
+
+<a href="https://www.amazon.com/s?k=Peak+Design+Tech+Pouch&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price:** $55 - $65
 
 If she travels often or commutes with a laptop bag, the Peak Design Tech Pouch will change her life. Most tech organizers are either flimsy or look like generic black boxes. This pouch features a premium textile feel, weatherproof shell, and world-class internal organization with origami-style pockets. It holds chargers, cables, SD cards, and power banks beautifully, making it exceptionally easy to find exactly what you need without digging.
@@ -75,6 +84,9 @@ If she travels often or commutes with a laptop bag, the Peak Design Tech Pouch w
 ---
 
 ### 4. Twelve South AirFly Pro Bluetooth Transmitter
+
+<a href="https://www.amazon.com/s?k=Twelve+South+AirFly+Pro+Bluetooth+Transmitter&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price:** $45 - $55
 
 This is the ultimate travel essential for women who fly. There is nothing more frustrating than boarding a long flight, taking out your expensive noise-canceling AirPods, and realizing you have to use the airline's terrible wired headphones to watch the in-flight movie. The AirFly Pro plugs into the airplane’s headphone jack and transmits the audio directly to her wireless earbuds. It’s tiny, lasts 16+ hours on a single charge, and can even pair with two sets of headphones so you can watch a movie together.
@@ -95,6 +107,9 @@ This is the ultimate travel essential for women who fly. There is nothing more f
 ---
 
 ### 5. Tile Pro (2-Pack) High-Performance Bluetooth Tracker
+
+<a href="https://www.amazon.com/s?k=Tile+Pro+High-Performance+Bluetooth+Tracker&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price:** $45 - $60
 
 Give the gift of peace of mind. The Tile Pro is a lifesaver for the mom who is constantly juggling a million things and occasionally misplaces her keys or purse. It has a massive 400-foot Bluetooth range and a loud ring. Plus, if she loses her phone, she can double-press the button on the Tile to make her phone ring—even if it's on silent. It's a practical, everyday carry item that she will thank you for the next time she's running late.

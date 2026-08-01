@@ -14,12 +14,14 @@ After testing over 15 workspace accessories and styling dozens of aesthetic home
 
 ---
 
-### 🏆 OUR TOP PICK: Baseus LED Monitor Light Bar
 If you only buy one item from this list to instantly elevate your desk, make it the **Baseus LED Monitor Light Bar**. It completely replaces bulky desk lamps, reclaims precious surface real estate, and delivers auto-dimming ambient light that cuts eye strain immediately.
 
 ---
 
 ### 1. Oakywood Felt & Cork Desk Pad
+
+<a href="https://www.amazon.com/s?k=Oakywood+Felt+%26+Cork+Desk+Pad&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price Range:** $35 - $50
 
 The foundation of any Pinterest-worthy setup begins with a tactile, clean desk mat. The Oakywood Felt & Cork Desk Pad pairs ultra-soft natural merino wool felt with an eco-friendly cork bottom layer that keeps it firmly anchored to wood or glass surfaces.
@@ -37,6 +39,9 @@ This is hands-down the **best desk mat for macbook setup** owners because the so
 ---
 
 ### 2. Baseus LED Monitor Light Bar with Auto-Dimming
+
+<a href="https://www.amazon.com/s?k=Baseus+LED+Monitor+Light+Bar+with+Auto-Dimming&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price Range:** $40 - $55
 
 Traditional desk lamps take up valuable surface space and create reflective glare on your screen. The Baseus LED Monitor Light Bar clips directly onto the top of your screen, casting an asymmetrical beam of light down onto your keyboard and documents without reflecting off the monitor.
@@ -54,6 +59,9 @@ Equipped with a ambient light sensor, it automatically adjusts brightness based 
 ---
 
 ### 3. OImaster Vertical Dual Laptop Stand Aluminum
+
+<a href="https://www.amazon.com/s?k=OImaster+Vertical+Dual+Laptop+Stand+Aluminum&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price Range:** $30 - $42
 
 If you run a multi-device setup with a work laptop and personal MacBook, horizontal clutter builds up fast. The OImaster Vertical Dual Laptop Stand stores two laptops upright simultaneously when connected to an external monitor.
@@ -71,6 +79,9 @@ Crafted from heavy-duty anodized aluminum with protective non-slip silicone padd
 ---
 
 ### 4. Anker 3-in-1 Cube MagSafe Charging Station
+
+<a href="https://www.amazon.com/s?k=Anker+3-in-1+Cube+MagSafe+Charging+Station&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price Range:** $55 - $75
 
 Nothing ruins a clean aesthetic faster than a tangled mess of Lightning and USB cables streaming across your desk. The Anker 3-in-1 Cube MagSafe Charging Station condenses your iPhone, Apple Watch, and AirPods charging points into a single compact cube about the size of a Rubik's Cube.
@@ -88,6 +99,9 @@ Official 15W MagSafe fast charging powers up your iPhone while keeping the scree
 ---
 
 ### 5. Govee RGBIC LED Ambient Light Bar Pair
+
+<a href="https://www.amazon.com/s?k=Govee+RGBIC+LED+Ambient+Light+Bar+Pair&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price Range:** $45 - $65
 
 Lighting dictates the mood of your entire room. The Govee RGBIC LED Ambient Light Bars sit neatly behind your monitor or along the back edges of your desk, washing your wall in soft, customizable ambient colors that eliminate harsh contrast dark rooms.

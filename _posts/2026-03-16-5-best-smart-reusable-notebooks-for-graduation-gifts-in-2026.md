@@ -16,6 +16,9 @@ Whether they are heading off to college or stepping into their first real-world 
 
 ### Our Top Pick: Rocketbook Pro with Premium Vegan Leather Cover
 
+<a href="https://www.amazon.com/s?k=Our+Top+Pick%3A+Rocketbook+Pro+with+Premium+Vegan+Leather+Cover&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
+
 If you want to impress a new grad, this is the one. It looks executive, feels incredibly premium, and functions flawlessly. It's the perfect companion for walking into a big meeting or a college lecture hall.
 
 Let's dive into the full list!
@@ -23,6 +26,9 @@ Let's dive into the full list!
 ---
 
 ### 1. Rocketbook Fusion Smart Reusable Notebook
+
+<a href="https://www.amazon.com/s?k=Rocketbook+Fusion+Smart+Reusable+Notebook&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 
 **Price:** $30 - $40
 [Check Price on Amazon](https://www.amazon.com/dp/B07RV9BYYF?tag=seandeals00-20)
@@ -42,6 +48,9 @@ The Rocketbook Fusion is basically the undisputed king of the smart notebook wor
 
 ### 2. Moleskine Smart Writing Set Accessory (Smart Pen Case)
 
+<a href="https://www.amazon.com/s?k=Moleskine+Smart+Writing+Set+Accessory&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
+
 **Price:** $25 - $40
 
 Moleskine is the gold standard for luxury journaling, and their smart writing ecosystem is no exception. While this is technically an accessory to their broader smart set, wrapping up anything with the Moleskine name carries a certain weight. It elevates the digital writing experience by maintaining that classic, prestige notebook feel. If you are searching for graduation gift ideas 2026 that scream "professional," you can't go wrong here.
@@ -57,6 +66,9 @@ Moleskine is the gold standard for luxury journaling, and their smart writing ec
 **Who it's best for:** The design student or new executive who cares deeply about aesthetics and brand heritage.
 
 ### 3. Rocketbook Pro with Premium Vegan Leather Cover
+
+<a href="https://www.amazon.com/s?k=Rocketbook+Pro+with+Premium+Vegan+Leather+Cover&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 
 **Price:** $50 - $65
 
@@ -75,6 +87,9 @@ As mentioned in our top pick, the Rocketbook Pro takes everything great about th
 
 ### 4. Boogie Board Blackboard Smart Reusable Letter Pad
 
+<a href="https://www.amazon.com/s?k=Boogie+Board+Blackboard+Smart+Reusable+Letter+Pad&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
+
 **Price:** $40 - $55
 [Check Price on Amazon](https://www.amazon.com/dp/B079796Y8T?tag=seandeals00-20)
 
@@ -92,6 +107,9 @@ The Boogie Board Blackboard is a totally different take on the best smart notebo
 **Who it's best for:** Visual thinkers, math majors, and anyone who prefers a whiteboard-style brainstorming session over structured note-taking.
 
 ### 5. Thinkers Smart Notebook with App Integration
+
+<a href="https://www.amazon.com/s?k=Thinkers+Smart+Notebook+with+App+Integration&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 
 **Price:** $35 - $50
 

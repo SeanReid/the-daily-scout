@@ -12,22 +12,6 @@ author: "The Daily Scout Editorial Team"
 
 Let's be honest: peeling yourself off the couch after a long, sluggish winter is the hardest part of any fitness journey. You don't need another generic workout plan; you need gear that actually makes you *want* to move. After testing 15 different home gym accessories, I've found that upgrading your equipment with a little bit of smart technology is the ultimate hack for consistency.
 
-<div class="wirecutter-summary">
-  <div class="wirecutter-summary-title">
-    <i class="fa-solid fa-trophy" style="color: #f59e0b;"></i> At A Glance: Our Top Recommendations
-  </div>
-  <div class="summary-picks-grid">
-    <div class="summary-pick-card">
-      <span class="pick-badge-overall">🏆 Our #1 Pick</span>
-      <strong>Smart Jump Rope with Digital Counter & App</strong>
-    </div>
-    <div class="summary-pick-card">
-      <span class="pick-badge-value">💰 Best Value</span>
-      <strong>Mini Deep Tissue Massage Gun (Portable) - **🏆 OUR TOP PICK**</strong>
-    </div>
-  </div>
-</div>
-
 Whether you are building out a dedicated garage space or just need a few space-saving items for your living room, these are the 5 best smart fitness gadgets worth your money this year.
 
 *Disclaimer: 

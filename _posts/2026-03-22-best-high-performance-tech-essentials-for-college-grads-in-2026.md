@@ -17,11 +17,17 @@ No fluff, no gimmicks—just reliable, professional office essentials that actua
 ---
 
 ### 🏆 Our Top Pick: Bellroy Tech Kit Organizer
+
+<a href="https://www.amazon.com/s?k=%F0%9F%8F%86+Our+Top+Pick%3A+Bellroy+Tech+Kit+Organizer&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 If you only buy one thing on this list, make it the Bellroy Tech Kit. It completely eliminates cable chaos and looks incredibly professional in any boardroom or coffee shop. 
 
 ---
 
 ### 1. Anker 533 Power Bank (PowerCore 30W)
+
+<a href="https://www.amazon.com/s?k=Anker+533+Power+Bank&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price:** ~$45
 
 Dead batteries are the ultimate productivity killer, especially when you're navigating a new city or commuting. The Anker 533 strikes the perfect balance between high capacity and portability. It delivers a fast 30W charge, meaning it can juice up your phone, wireless earbuds, and even give your MacBook Air a quick boost when you're away from a wall outlet. It features a built-in screen that shows exactly how much battery life remains, taking the guesswork out of your daily charge.
@@ -31,6 +37,9 @@ Dead batteries are the ultimate productivity killer, especially when you're navi
 **Who it's best for:** The commuter who needs reliable, all-day power without carrying a brick.
 
 ### 2. Bellroy Tech Kit Organizer
+
+<a href="https://www.amazon.com/s?k=Bellroy+Tech+Kit+Organizer&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price:** ~$55
 
 [Check it out on Amazon](https://www.amazon.com/dp/B0892B1H51?tag=thedailysco0d-20)
@@ -42,6 +51,9 @@ This is a true "buy it for life" piece. The Bellroy Tech Kit Organizer is crafte
 **Who it's best for:** The design-conscious professional who hates tangled wires.
 
 ### 3. Logitech MX Anywhere 3S Compact Mouse
+
+<a href="https://www.amazon.com/s?k=Logitech+MX+Anywhere+3S+Compact+Mouse&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price:** ~$75
 
 If you're still using a trackpad for 8 hours a day, your wrists are going to punish you. The MX Anywhere 3S is a high-performance productivity staple. It tracks on virtually any surface—including glass cafe tables—and features incredibly quiet clicks that won't annoy your new coworkers. The MagSpeed scroll wheel lets you fly through massive spreadsheets in seconds, making it an essential upgrade for any office worker.
@@ -51,6 +63,9 @@ If you're still using a trackpad for 8 hours a day, your wrists are going to pun
 **Who it's best for:** Hot-deskers and travelers who need uncompromising productivity anywhere.
 
 ### 4. Orbitkey Key Organizer (Leather)
+
+<a href="https://www.amazon.com/s?k=Orbitkey+Key+Organizer&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price:** ~$40
 
 [Check it out on Amazon](https://www.amazon.com/dp/B01M0S0Y67?tag=thedailysco0d-20)
@@ -62,6 +77,9 @@ Nothing ruins the look of a tailored suit or professional attire quite like a bu
 **Who it's best for:** Minimalists who value a silent, organized everyday carry.
 
 ### 5. Moft Invisible Slim Laptop Stand
+
+<a href="https://www.amazon.com/s?k=Moft+Invisible+Slim+Laptop+Stand&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 **Price:** ~$25
 
 [Check it out on Amazon](https://www.amazon.com/dp/B07Z4S82Z6?tag=thedailysco0d-20)
@@ -75,6 +93,9 @@ Nothing ruins the look of a tailored suit or professional attire quite like a bu
 ---
 
 ### The Verdict: Which Should You Buy?
+
+<a href="https://www.amazon.com/s?k=The+Verdict%3A+Which+Should+You+Buy%3F&tag=thedailysco0d-20" class="amazon-gold-btn" target="_blank" rel="nofollow noopener"><i class="fa-solid fa-cart-shopping"></i> Check Price on Amazon</a>
+
 
 | Product | Best For | Price Range |
 |---------|----------|-------------|
