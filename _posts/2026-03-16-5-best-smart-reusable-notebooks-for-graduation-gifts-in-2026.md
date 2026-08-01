@@ -24,7 +24,7 @@ Let's dive into the full list!
 ### 1. Rocketbook Fusion Smart Reusable Notebook
 
 **Price:** $30 - $40
-[Check Price on Amazon](https://www.amazon.com/dp/B07RV9BYYF?tag=seandeals00-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B07RV9BYYF?tag=thedailysco0d-20)
 
 The Rocketbook Fusion is basically the undisputed king of the smart notebook world right now. It features 42 reusable pages packed with 7 different page styles (task lists, weekly planners, dotted, and lined). You write, scan with the incredibly snappy Rocketbook app, and then wipe the page clean with a damp cloth. It's arguably the most versatile reusable notebook review you'll read today.
 
@@ -75,7 +75,7 @@ As mentioned in our top pick, the Rocketbook Pro takes everything great about th
 ### 4. Boogie Board Blackboard Smart Reusable Letter Pad
 
 **Price:** $40 - $55
-[Check Price on Amazon](https://www.amazon.com/dp/B079796Y8T?tag=seandeals00-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B079796Y8T?tag=thedailysco0d-20)
 
 The Boogie Board Blackboard is a totally different take on the best smart notebook category. It feels more like writing on a digital chalkboard or tablet, but with zero lag. You write with the included stylus, and you can clear the whole board with the push of a button, or erase specific mistakes with the exact-erase feature. You capture your notes via their app. It's highly visual and incredibly satisfying to use.
 

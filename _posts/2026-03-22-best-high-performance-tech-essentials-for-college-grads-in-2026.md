@@ -32,7 +32,7 @@ Dead batteries are the ultimate productivity killer, especially when you're navi
 ### 2. Bellroy Tech Kit Organizer
 **Price:** ~$55
 
-[Check it out on Amazon](https://www.amazon.com/dp/B0892B1H51)
+[Check it out on Amazon](https://www.amazon.com/dp/B0892B1H51?tag=thedailysco0d-20)
 
 This is a true "buy it for life" piece. The Bellroy Tech Kit Organizer is crafted from premium, environmentally certified leather and durable woven fabric. Inside, it features magnetic slip pockets and elastic loops that securely hold your mouse, power bank, cables, and dongles. It zips completely flat, giving you full access to your gear. It's an instant visual upgrade from throwing cables loosely into a backpack.
 
@@ -52,7 +52,7 @@ If you're still using a trackpad for 8 hours a day, your wrists are going to pun
 ### 4. Orbitkey Key Organizer (Leather)
 **Price:** ~$40
 
-[Check it out on Amazon](https://www.amazon.com/dp/B01M0S0Y67)
+[Check it out on Amazon](https://www.amazon.com/dp/B01M0S0Y67?tag=thedailysco0d-20)
 
 Nothing ruins the look of a tailored suit or professional attire quite like a bulky, jingling janitor-style keychain. The Orbitkey transforms your messy key cluster into a sleek, silent stack. Made from high-quality top grain leather, it securely holds up to 7 standard keys and stops them from scratching your phone in your pocket. It's a classic everyday carry tech guide favorite for a reason.
 
@@ -63,7 +63,7 @@ Nothing ruins the look of a tailored suit or professional attire quite like a bu
 ### 5. Moft Invisible Slim Laptop Stand
 **Price:** ~$25
 
-[Check it out on Amazon](https://www.amazon.com/dp/B07Z4S82Z6)
+[Check it out on Amazon](https://www.amazon.com/dp/B07Z4S82Z6?tag=thedailysco0d-20)
 
 "Tech neck" is a real hazard when you're staring at a laptop all day. The Moft Invisible Stand is a brilliant, impulse-buy solution. It adheres directly to the bottom of your laptop and folds out to provide two different ergonomic viewing angles. When flat, it's virtually unnoticeable and adds zero bulk to your laptop sleeve. It solves a massive ergonomic problem without requiring you to carry a heavy, dedicated metal stand.
 
