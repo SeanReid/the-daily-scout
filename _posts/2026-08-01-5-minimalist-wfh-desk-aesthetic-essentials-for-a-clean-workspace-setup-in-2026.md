@@ -23,7 +23,7 @@ If you only buy one item from this list to instantly elevate your desk, make it 
 ![Oakywood Felt & Cork Desk Pad](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
 
 
-[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Oakywood+Felt+%26+Cork+Desk+Pad&tag=thedailysco0d-20)
+[🛒 Check Price on Amazon →](https://www.amazon.com/dp/B08R7YV8W9?tag=thedailysco0d-20)
 
 **Price Range:** $35 - $50
 
@@ -46,7 +46,7 @@ This is hands-down the **best desk mat for macbook setup** owners because the so
 ![Baseus LED Monitor Light Bar with Auto-Dimming](https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80)
 
 
-[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Baseus+LED+Monitor+Light+Bar+with+Auto-Dimming&tag=thedailysco0d-20)
+[🛒 Check Price on Amazon →](https://www.amazon.com/dp/B08C29D79H?tag=thedailysco0d-20)
 
 **Price Range:** $40 - $55
 
@@ -69,7 +69,7 @@ Equipped with a ambient light sensor, it automatically adjusts brightness based 
 ![OImaster Vertical Dual Laptop Stand Aluminum](https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&auto=format&fit=crop&q=80)
 
 
-[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=OImaster+Vertical+Dual+Laptop+Stand+Aluminum&tag=thedailysco0d-20)
+[🛒 Check Price on Amazon →](https://www.amazon.com/dp/B08L7V4QW6?tag=thedailysco0d-20)
 
 **Price Range:** $30 - $42
 
@@ -92,7 +92,7 @@ Crafted from heavy-duty anodized aluminum with protective non-slip silicone padd
 ![Anker 3-in-1 Cube MagSafe Charging Station](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
 
 
-[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Anker+3-in-1+Cube+MagSafe+Charging+Station&tag=thedailysco0d-20)
+[🛒 Check Price on Amazon →](https://www.amazon.com/dp/B0B4K6Z7W9?tag=thedailysco0d-20)
 
 **Price Range:** $55 - $75
 
@@ -115,7 +115,7 @@ Official 15W MagSafe fast charging powers up your iPhone while keeping the scree
 ![Govee RGBIC LED Ambient Light Bar Pair](https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80)
 
 
-[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Govee+RGBIC+LED+Ambient+Light+Bar+Pair&tag=thedailysco0d-20)
+[🛒 Check Price on Amazon →](https://www.amazon.com/dp/B09B2W8PCC?tag=thedailysco0d-20)
 
 **Price Range:** $45 - $65
 
