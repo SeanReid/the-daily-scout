@@ -20,16 +20,16 @@ By building a distraction-free deep work desk setup, you physically remove the t
 ---
 
 
-<div class="wirecutter-card" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.5rem; margin: 2rem 0; box-shadow: 0 4px 16px rgba(0,0,0,0.06); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 220px; max-width: 100%; text-align: center; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1rem;">
-      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80" alt="🏆 Our Top Pick: The Rocketbook Core Reusable Smart Notebook" style="max-width: 100%; max-height: 180px; object-fit: contain; border-radius: 8px;">
+<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
+  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
+    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
+      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="🏆 Our Top Pick: The Rocketbook Core Reusable Smart Notebook" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
     </div>
-    <div style="flex: 1; min-width: 250px;">
-      <h3 style="font-family: var(--font-heading); font-size: 1.35rem; font-weight: 800; color: #0f172a; margin-bottom: 0.5rem; border: none; padding: 0;">🏆 Our Top Pick: The Rocketbook Core Reusable Smart Notebook</h3>
+    <div style="flex: 1; min-width: 260px;">
+      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">🏆 Our Top Pick: The Rocketbook Core Reusable Smart Notebook</h3>
       <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1rem; color: #475569; line-height: 1.6; margin-bottom: 1.25rem;">---</p>
-      <a href="https://www.amazon.com/s?k=%F0%9F%8F%86+Our+Top+Pick%3A+The+Rocketbook+Core+Reusable+Smart+Notebook&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: var(--font-heading); font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 12px rgba(255,153,0,0.35);">
+      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">---</p>
+      <a href="https://www.amazon.com/s?k=%F0%9F%8F%86+Our+Top+Pick%3A+The+Rocketbook+Core+Reusable+Smart+Notebook&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
         <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
       </a>
     </div>
@@ -37,16 +37,16 @@ By building a distraction-free deep work desk setup, you physically remove the t
 </div>
 
 
-<div class="wirecutter-card" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.5rem; margin: 2rem 0; box-shadow: 0 4px 16px rgba(0,0,0,0.06); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 220px; max-width: 100%; text-align: center; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1rem;">
-      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80" alt="Rocketbook Core Reusable Smart Notebook" style="max-width: 100%; max-height: 180px; object-fit: contain; border-radius: 8px;">
+<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
+  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
+    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
+      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Rocketbook Core Reusable Smart Notebook" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
     </div>
-    <div style="flex: 1; min-width: 250px;">
-      <h3 style="font-family: var(--font-heading); font-size: 1.35rem; font-weight: 800; color: #0f172a; margin-bottom: 0.5rem; border: none; padding: 0;">Rocketbook Core Reusable Smart Notebook</h3>
+    <div style="flex: 1; min-width: 260px;">
+      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Rocketbook Core Reusable Smart Notebook</h3>
       <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1rem; color: #475569; line-height: 1.6; margin-bottom: 1.25rem;">The Rocketbook Core is pure magic. You write on its synthetic pages with an included Pilot Frixion pen, scan your notes using their app (which auto-sends them to Google Drive, Notion, or Slack), and then wipe the page perfectly clean with a damp cloth. It’s the last notebook you will ever need to buy.</p>
-      <a href="https://www.amazon.com/s?k=Rocketbook+Core+Reusable+Smart+Notebook&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: var(--font-heading); font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 12px rgba(255,153,0,0.35);">
+      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">The Rocketbook Core is pure magic. You write on its synthetic pages with an included Pilot Frixion pen, scan your notes using their app (which auto-sends them to Google Drive, Notion, or Slack), and then wipe the page perfectly clean with a damp cloth. It’s the last notebook you will ever need to buy.</p>
+      <a href="https://www.amazon.com/s?k=Rocketbook+Core+Reusable+Smart+Notebook&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
         <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
       </a>
     </div>
@@ -54,16 +54,16 @@ By building a distraction-free deep work desk setup, you physically remove the t
 </div>
 
 
-<div class="wirecutter-card" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.5rem; margin: 2rem 0; box-shadow: 0 4px 16px rgba(0,0,0,0.06); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 220px; max-width: 100%; text-align: center; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1rem;">
-      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80" alt="Time Timer MOD" style="max-width: 100%; max-height: 180px; object-fit: contain; border-radius: 8px;">
+<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
+  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
+    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
+      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Time Timer MOD" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
     </div>
-    <div style="flex: 1; min-width: 250px;">
-      <h3 style="font-family: var(--font-heading); font-size: 1.35rem; font-weight: 800; color: #0f172a; margin-bottom: 0.5rem; border: none; padding: 0;">Time Timer MOD</h3>
+    <div style="flex: 1; min-width: 260px;">
+      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Time Timer MOD</h3>
       <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1rem; color: #475569; line-height: 1.6; margin-bottom: 1.25rem;">The Pomodoro technique is a staple of deep work, but using your phone as a timer is a trap. The Time Timer MOD is a highly visual, aesthetic desktop timer that shows exactly how much time is left via a vanishing red disk. It provides a constant, silent sense of urgency that keeps you completely locked in.</p>
-      <a href="https://www.amazon.com/s?k=Time+Timer+MOD&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: var(--font-heading); font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 12px rgba(255,153,0,0.35);">
+      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">The Pomodoro technique is a staple of deep work, but using your phone as a timer is a trap. The Time Timer MOD is a highly visual, aesthetic desktop timer that shows exactly how much time is left via a vanishing red disk. It provides a constant, silent sense of urgency that keeps you completely locked in.</p>
+      <a href="https://www.amazon.com/s?k=Time+Timer+MOD&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
         <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
       </a>
     </div>
@@ -71,16 +71,16 @@ By building a distraction-free deep work desk setup, you physically remove the t
 </div>
 
 
-<div class="wirecutter-card" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.5rem; margin: 2rem 0; box-shadow: 0 4px 16px rgba(0,0,0,0.06); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 220px; max-width: 100%; text-align: center; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1rem;">
-      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80" alt="Lamy Safari Fountain Pen" style="max-width: 100%; max-height: 180px; object-fit: contain; border-radius: 8px;">
+<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
+  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
+    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
+      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Lamy Safari Fountain Pen" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
     </div>
-    <div style="flex: 1; min-width: 250px;">
-      <h3 style="font-family: var(--font-heading); font-size: 1.35rem; font-weight: 800; color: #0f172a; margin-bottom: 0.5rem; border: none; padding: 0;">Lamy Safari Fountain Pen</h3>
+    <div style="flex: 1; min-width: 260px;">
+      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Lamy Safari Fountain Pen</h3>
       <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1rem; color: #475569; line-height: 1.6; margin-bottom: 1.25rem;">If you are going to embrace analog productivity, you need a tool that makes you *want* to write. The Lamy Safari is the undisputed king of entry-level fountain pens. It features an ergonomic grip that forces proper hand posture and a smooth steel nib that glides over paper. It elevates the simple act of writing a to-do list into a satisfying ritual.</p>
-      <a href="https://www.amazon.com/s?k=Lamy+Safari+Fountain+Pen&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: var(--font-heading); font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 12px rgba(255,153,0,0.35);">
+      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">If you are going to embrace analog productivity, you need a tool that makes you *want* to write. The Lamy Safari is the undisputed king of entry-level fountain pens. It features an ergonomic grip that forces proper hand posture and a smooth steel nib that glides over paper. It elevates the simple act of writing a to-do list into a satisfying ritual.</p>
+      <a href="https://www.amazon.com/s?k=Lamy+Safari+Fountain+Pen&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
         <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
       </a>
     </div>
@@ -88,16 +88,16 @@ By building a distraction-free deep work desk setup, you physically remove the t
 </div>
 
 
-<div class="wirecutter-card" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.5rem; margin: 2rem 0; box-shadow: 0 4px 16px rgba(0,0,0,0.06); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 220px; max-width: 100%; text-align: center; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1rem;">
-      <img src="https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=800&auto=format&fit=crop&q=80" alt="Twelve South HiRise 3 Wireless Charger" style="max-width: 100%; max-height: 180px; object-fit: contain; border-radius: 8px;">
+<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
+  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
+    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
+      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Twelve South HiRise 3 Wireless Charger" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
     </div>
-    <div style="flex: 1; min-width: 250px;">
-      <h3 style="font-family: var(--font-heading); font-size: 1.35rem; font-weight: 800; color: #0f172a; margin-bottom: 0.5rem; border: none; padding: 0;">Twelve South HiRise 3 Wireless Charger</h3>
+    <div style="flex: 1; min-width: 260px;">
+      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Twelve South HiRise 3 Wireless Charger</h3>
       <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1rem; color: #475569; line-height: 1.6; margin-bottom: 1.25rem;">A cluttered desk equals a cluttered mind. While not strictly "analog," the HiRise 3 is essential for a minimalist office tools setup. It charges your iPhone, Apple Watch, and AirPods simultaneously while hiding all the messy cables. More importantly, it acts as a dedicated "home" for your phone, keeping it out of your hands while you focus.</p>
-      <a href="https://www.amazon.com/s?k=Twelve+South+HiRise+3+Wireless+Charger&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: var(--font-heading); font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 12px rgba(255,153,0,0.35);">
+      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">A cluttered desk equals a cluttered mind. While not strictly "analog," the HiRise 3 is essential for a minimalist office tools setup. It charges your iPhone, Apple Watch, and AirPods simultaneously while hiding all the messy cables. More importantly, it acts as a dedicated "home" for your phone, keeping it out of your hands while you focus.</p>
+      <a href="https://www.amazon.com/s?k=Twelve+South+HiRise+3+Wireless+Charger&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
         <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
       </a>
     </div>
@@ -105,16 +105,16 @@ By building a distraction-free deep work desk setup, you physically remove the t
 </div>
 
 
-<div class="wirecutter-card" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.5rem; margin: 2rem 0; box-shadow: 0 4px 16px rgba(0,0,0,0.06); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 220px; max-width: 100%; text-align: center; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1rem;">
-      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80" alt="Leuchtturm1917 Medium A5 Dotted Notebook" style="max-width: 100%; max-height: 180px; object-fit: contain; border-radius: 8px;">
+<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
+  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
+    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
+      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Leuchtturm1917 Medium A5 Dotted Notebook" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
     </div>
-    <div style="flex: 1; min-width: 250px;">
-      <h3 style="font-family: var(--font-heading); font-size: 1.35rem; font-weight: 800; color: #0f172a; margin-bottom: 0.5rem; border: none; padding: 0;">Leuchtturm1917 Medium A5 Dotted Notebook</h3>
+    <div style="flex: 1; min-width: 260px;">
+      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Leuchtturm1917 Medium A5 Dotted Notebook</h3>
       <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1rem; color: #475569; line-height: 1.6; margin-bottom: 1.25rem;">For the purists who prefer their systems completely unplugged, the Leuchtturm1917 is the gold standard. It features numbered pages, a blank table of contents, and high-quality ink-proof paper. It is the ultimate blank canvas for bullet journal essentials, habit tracking, and project planning.</p>
-      <a href="https://www.amazon.com/s?k=Leuchtturm1917+Medium+A5+Dotted+Notebook&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: var(--font-heading); font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 12px rgba(255,153,0,0.35);">
+      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">For the purists who prefer their systems completely unplugged, the Leuchtturm1917 is the gold standard. It features numbered pages, a blank table of contents, and high-quality ink-proof paper. It is the ultimate blank canvas for bullet journal essentials, habit tracking, and project planning.</p>
+      <a href="https://www.amazon.com/s?k=Leuchtturm1917+Medium+A5+Dotted+Notebook&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
         <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
       </a>
     </div>
