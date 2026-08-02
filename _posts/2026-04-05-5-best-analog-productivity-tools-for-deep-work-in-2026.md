@@ -8,24 +8,7 @@ tags: ["productivity", "analog tools", "desk setup", "bullet journal", "deep wor
 author: "The Daily Scout Editorial Team"
 ---
 
-<div class="storefront-banner" style="background: linear-gradient(135deg, #0f172a, #1e293b); color: #fff; padding: 1.25rem; border-radius: 14px; margin-bottom: 2rem; display: flex; align-items: center; justify-content: space-between; box-shadow: 0 4px 14px rgba(0,0,0,0.15);">
-  <div style="display: flex; align-items: center; gap: 0.85rem;">
-    <i class="fa-brands fa-amazon" style="font-size: 1.8rem; color: #ff9900;"></i>
-    <div>
-      <div style="font-family: var(--font-heading); font-weight: 800; font-size: 1.05rem;">The Daily Scout Amazon Storefront</div>
-      <div style="font-size: 0.85rem; color: #cbd5e1;">Shop our curated 2026 Idea Lists with 1-click Prime checkout.</div>
-    </div>
-  </div>
-  <a href="https://www.amazon.com/shop/thedailyscout" target="_blank" rel="nofollow noopener" style="background: #ff9900; color: #0f172a; font-weight: 800; padding: 0.6rem 1.25rem; border-radius: 8px; text-decoration: none; font-size: 0.9rem;">Visit Storefront →</a>
-</div>
-
-
-
-
 # 5 Best Analog Productivity Tools for Deep Work in 2026
-
-*This post contains affiliate links. We may earn a commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases.*
-
 You sit down at your desk, fully intending to crush that massive project. You open your laptop, and *ping*—a Slack message. You check it, which leads to checking email, which leads to scrolling a feed. An hour later, your deep work session is completely derailed.
 
 Sound familiar? 
@@ -37,13 +20,25 @@ By building a distraction-free deep work desk setup, you physically remove the t
 ---
 
 ## 🏆 Our Top Pick: The Rocketbook Core Reusable Smart Notebook
+
+![🏆 Our Top Pick: The Rocketbook Core Reusable Smart Notebook](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=%F0%9F%8F%86+Our+Top+Pick%3A+The+Rocketbook+Core+Reusable+Smart+Notebook&tag=thedailysco0d-20)
+
 If you only buy one thing on this list, make it the **Rocketbook Core**. It perfectly bridges the gap between the tactile joy of pen-and-paper and the organizational power of the cloud. You get the focus of analog writing without losing your notes to the bottom of a desk drawer.
 
 ---
 
 ## 1. Rocketbook Core Reusable Smart Notebook
+
+![Rocketbook Core Reusable Smart Notebook](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Rocketbook+Core+Reusable+Smart+Notebook&tag=thedailysco0d-20)
+
 **Price Guide:** $30 - $35
-[Check it out on Amazon](https://www.amazon.com/dp/B01GU6T5CE?tag=)
+[Check it out on Amazon](https://www.amazon.com/dp/B01GU6T5CE?tag=thedailysco0d-20)
 
 The Rocketbook Core is pure magic. You write on its synthetic pages with an included Pilot Frixion pen, scan your notes using their app (which auto-sends them to Google Drive, Notion, or Slack), and then wipe the page perfectly clean with a damp cloth. It’s the last notebook you will ever need to buy.
 
@@ -59,8 +54,14 @@ The Rocketbook Core is pure magic. You write on its synthetic pages with an incl
 **Best for:** The tech-lover who wants the cognitive benefits of handwriting without the physical clutter of filled notebooks.
 
 ## 2. Time Timer MOD (Visual Timer)
+
+![Time Timer MOD](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Time+Timer+MOD&tag=thedailysco0d-20)
+
 **Price Guide:** $25 - $35
-[Check it out on Amazon](https://www.amazon.com/dp/B01K0TF6HS?tag=)
+[Check it out on Amazon](https://www.amazon.com/dp/B01K0TF6HS?tag=thedailysco0d-20)
 
 The Pomodoro technique is a staple of deep work, but using your phone as a timer is a trap. The Time Timer MOD is a highly visual, aesthetic desktop timer that shows exactly how much time is left via a vanishing red disk. It provides a constant, silent sense of urgency that keeps you completely locked in.
 
@@ -76,8 +77,14 @@ The Pomodoro technique is a staple of deep work, but using your phone as a timer
 **Best for:** Anyone struggling with ADHD, time blindness, or those who constantly check their phone to see how much time is left in a work sprint.
 
 ## 3. Lamy Safari Fountain Pen
+
+![Lamy Safari Fountain Pen](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Lamy+Safari+Fountain+Pen&tag=thedailysco0d-20)
+
 **Price Guide:** $30 - $40
-[Check it out on Amazon](https://www.amazon.com/dp/B0002T401Y?tag=)
+[Check it out on Amazon](https://www.amazon.com/dp/B0002T401Y?tag=thedailysco0d-20)
 
 If you are going to embrace analog productivity, you need a tool that makes you *want* to write. The Lamy Safari is the undisputed king of entry-level fountain pens. It features an ergonomic grip that forces proper hand posture and a smooth steel nib that glides over paper. It elevates the simple act of writing a to-do list into a satisfying ritual.
 
@@ -93,8 +100,14 @@ If you are going to embrace analog productivity, you need a tool that makes you 
 **Best for:** The stationery aesthetic enthusiast who wants to romanticize their daily planning sessions.
 
 ## 4. Twelve South HiRise 3 Wireless Charger
+
+![Twelve South HiRise 3 Wireless Charger](https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Twelve+South+HiRise+3+Wireless+Charger&tag=thedailysco0d-20)
+
 **Price Guide:** $70 - $80
-[Check it out on Amazon](https://www.amazon.com/dp/B0B4K6Z7W9?tag=)
+[Check it out on Amazon](https://www.amazon.com/dp/B0B4K6Z7W9?tag=thedailysco0d-20)
 
 A cluttered desk equals a cluttered mind. While not strictly "analog," the HiRise 3 is essential for a minimalist office tools setup. It charges your iPhone, Apple Watch, and AirPods simultaneously while hiding all the messy cables. More importantly, it acts as a dedicated "home" for your phone, keeping it out of your hands while you focus.
 
@@ -110,8 +123,14 @@ A cluttered desk equals a cluttered mind. While not strictly "analog," the HiRis
 **Best for:** Apple ecosystem users who want a pristine, distraction-free environment.
 
 ## 5. Leuchtturm1917 Medium A5 Dotted Notebook
+
+![Leuchtturm1917 Medium A5 Dotted Notebook](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=80)
+
+
+[🛒 Check Price on Amazon →](https://www.amazon.com/s?k=Leuchtturm1917+Medium+A5+Dotted+Notebook&tag=thedailysco0d-20)
+
 **Price Guide:** $25 - $30
-[Check it out on Amazon](https://www.amazon.com/dp/B002TSIMW4?tag=)
+[Check it out on Amazon](https://www.amazon.com/dp/B002TSIMW4?tag=thedailysco0d-20)
 
 For the purists who prefer their systems completely unplugged, the Leuchtturm1917 is the gold standard. It features numbered pages, a blank table of contents, and high-quality ink-proof paper. It is the ultimate blank canvas for bullet journal essentials, habit tracking, and project planning.
 
@@ -141,13 +160,3 @@ For the purists who prefer their systems completely unplugged, the Leuchtturm191
 If you want to immediately upgrade your focus, grab the **Time Timer MOD**. It physically changes how you perceive your working hours. But if you want to overhaul how you capture ideas, the **Rocketbook Core** is an absolute game-changer. 
 
 Drop the digital distractions and try incorporating just one of these analog productivity hacks into your deep work desk setup this week. Your brain (and your to-do list) will thank you.
-
-
-<div class="embedded-pin-card" style="background: #fff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; text-align: center; margin: 3rem auto 1.5rem; max-width: 340px; box-shadow: 0 8px 24px rgba(0,0,0,0.08);">
-  <div style="font-size: 0.8rem; font-weight: 700; color: #e60023; text-transform: uppercase; margin-bottom: 0.5rem;">
-    <i class="fa-brands fa-pinterest"></i> Save to Pinterest
-  </div>
-  <img src="/the-daily-scout/assets/pins/pin_121.png" alt="Pinterest Graphic" style="width: 100%; border-radius: 10px; margin-bottom: 0.75rem;">
-  <div style="font-size: 0.85rem; color: #64748b;">Click the Pin image to save this guide to your Pinterest board!</div>
-</div>
-

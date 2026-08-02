@@ -1,5 +1,5 @@
 /* ==========================================================================
-   THE DAILY SCOUT — PREMIUM WIRECUTTER-GRADE DESIGN SYSTEM (2026 EDITION)
+   THE DAILY SCOUT — CLEAN WIRECUTTER DESIGN SYSTEM (2026 EDITION)
    ========================================================================== */
 
 /* === CSS Custom Properties === */
@@ -7,7 +7,7 @@
   --font-heading: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 
-  /* Color Palette */
+  /* Colors */
   --slate-900: #0f172a;
   --slate-800: #1e293b;
   --slate-700: #334155;
@@ -125,8 +125,40 @@ body {
 
 .site-header nav a:hover { color: var(--amber-500); }
 
+/* === Storefront Banner === */
+.storefront-banner {
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  color: #ffffff;
+  padding: 1.25rem 1.5rem;
+  border-radius: var(--radius-md);
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.banner-content { display: flex; align-items: center; gap: 1rem; }
+.banner-logo { font-size: 2rem; color: #ff9900; }
+.banner-title { font-family: var(--font-heading); font-weight: 800; font-size: 1.05rem; }
+.banner-sub { font-size: 0.85rem; color: #cbd5e1; }
+.banner-btn {
+  background: #ff9900;
+  color: #0f172a;
+  font-weight: 800;
+  padding: 0.6rem 1.25rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background 0.2s;
+}
+.banner-btn:hover { background: #ffaa00; }
+
 /* === Post Header === */
-.post-header { margin: 2rem 0 1.5rem; }
+.post-header { margin: 1.5rem 0 1.5rem; }
 
 .post-category-badge {
   display: inline-flex;
@@ -153,7 +185,7 @@ body {
   margin-bottom: 1.25rem;
 }
 
-/* === Authentic Editorial Byline === */
+/* === Editorial Byline === */
 .editorial-meta {
   display: flex;
   align-items: center;
@@ -211,7 +243,7 @@ body {
   gap: 0.75rem;
 }
 
-/* === Article Content === */
+/* === Article Body === */
 .post-content {
   background: #ffffff;
   padding: 2.5rem 2.25rem;
@@ -228,9 +260,21 @@ body {
   line-height: 1.8;
 }
 
+/* Bullet list indentation fix */
+.post-content ul, .post-content ol {
+  padding-left: 2rem !important;
+  margin-bottom: 1.5rem !important;
+  color: var(--slate-700);
+}
+
+.post-content li {
+  margin-bottom: 0.5rem;
+}
+
+/* Headings */
 .post-content h2, .post-content h3 {
   font-family: var(--font-heading);
-  font-size: 1.55rem;
+  font-size: 1.6rem;
   font-weight: 800;
   color: var(--slate-900);
   margin-top: 2.5rem;
@@ -240,41 +284,41 @@ body {
   padding-bottom: 0.5rem;
 }
 
-/* === High-Resolution Product Images === */
+/* === Product Images === */
 .post-content img {
-  width: 100%;
-  max-height: 380px;
-  object-fit: cover;
-  border-radius: var(--radius-md);
-  margin: 1.25rem 0;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
-  border: 1px solid var(--slate-200);
+  width: 100% !important;
+  max-height: 380px !important;
+  object-fit: cover !important;
+  border-radius: var(--radius-md) !important;
+  margin: 1.25rem 0 !important;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08) !important;
+  border: 1px solid var(--slate-200) !important;
 }
 
 /* === High-Converting Amazon Gold Buttons === */
 .post-content a[href*="amazon.com"] {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.65rem;
-  background: linear-gradient(135deg, #ff9900, #ffaa00);
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 0.65rem !important;
+  background: linear-gradient(135deg, #ff9900, #ffaa00) !important;
   color: #0f172a !important;
-  font-family: var(--font-heading);
-  font-weight: 800;
-  font-size: 1.05rem;
-  padding: 0.85rem 1.85rem;
-  border-radius: var(--radius-md);
+  font-family: var(--font-heading) !important;
+  font-weight: 800 !important;
+  font-size: 1.05rem !important;
+  padding: 0.85rem 1.85rem !important;
+  border-radius: 8px !important;
   text-decoration: none !important;
-  box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);
-  transition: all 0.25s ease;
-  margin: 0.75rem 0 1.75rem;
-  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4) !important;
+  margin: 0.75rem 0 1.75rem !important;
+  cursor: pointer !important;
+  transition: all 0.2s ease !important;
 }
 
 .post-content a[href*="amazon.com"]:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 22px rgba(255, 153, 0, 0.55);
-  background: linear-gradient(135deg, #ffaa00, #ffbb00);
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 22px rgba(255, 153, 0, 0.55) !important;
+  background: linear-gradient(135deg, #ffaa00, #ffbb00) !important;
 }
 
 /* === Footer === */
@@ -299,5 +343,5 @@ body {
 @media (max-width: 640px) {
   .post-title { font-size: 1.75rem; }
   .post-content { padding: 1.5rem 1.25rem; }
-  .post-content a[href*="amazon.com"] { display: flex; width: 100%; text-align: center; }
+  .post-content a[href*="amazon.com"] { display: flex !important; width: 100% !important; text-align: center; }
 }
