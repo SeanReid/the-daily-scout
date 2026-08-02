@@ -1,76 +1,60 @@
 ---
-layout: null
+layout: default
+title: The Daily Scout — Curated Product Roundups & Verified Research
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  {% include head.html %}
-  <title>{{ site.title }} — Curated Product Roundups & Hardware Reviews</title>
-  <meta name="description" content="{{ site.description }}">
-  <meta property="og:title" content="{{ site.title }}">
-  <meta property="og:description" content="{{ site.description }}">
-  <meta property="og:type" content="website">
-  {% seo %}
-</head>
-<body>
 
-  <!-- Top Trust Bar -->
-  <div class="trust-bar">
-    <span><i class="fa-solid fa-shield-halved"></i> Hands-On Tested</span>
-    <span><i class="fa-solid fa-bolt"></i> Amazon Prime Verified</span>
-    <span><i class="fa-solid fa-flask"></i> Independent Hardware Lab</span>
-  </div>
-
-  <!-- Header -->
-  <header class="site-header">
-    <div class="container">
-      <a href="{{ site.baseurl }}/" class="site-brand">
-        <div class="brand-icon"><i class="fa-solid fa-compass"></i></div>
-        <span class="site-title">{{ site.title }}</span>
+<!-- Hero Section -->
+<section class="hero-section" style="background: linear-gradient(135deg, #0f172a, #1e293b); color: #fff; padding: 3.5rem 1.5rem; text-align: center; border-radius: 20px; margin: 1.5rem 0 3rem; box-shadow: 0 8px 30px rgba(0,0,0,0.15);">
+  <div style="max-width: 680px; margin: 0 auto;">
+    <span style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); font-size: 0.8rem; font-weight: 800; padding: 0.35rem 0.9rem; border-radius: 20px; text-transform: uppercase; letter-spacing: 0.05em; display: inline-block; margin-bottom: 1rem;">
+      <i class="fa-solid fa-bolt"></i> 2026 Editorial Roundups
+    </span>
+    <h1 style="font-family: 'Plus Jakarta Sans', sans-serif; font-size: 2.5rem; font-weight: 800; line-height: 1.25; margin-bottom: 1rem; letter-spacing: -0.03em;">
+      Tested, Reviewed & Ranked Products You Can Actually Trust
+    </h1>
+    <p style="font-size: 1.05rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 2rem;">
+      We spend dozens of hours researching specifications, analyzing verified buyer reviews, and curating top recommendations so you never waste money on junk.
+    </p>
+    <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+      <a href="https://www.amazon.com/shop/thedailyscout" target="_blank" rel="nofollow noopener" style="background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a; font-weight: 800; padding: 0.85rem 1.75rem; border-radius: 10px; text-decoration: none; box-shadow: 0 4px 14px rgba(255,153,0,0.4);">
+        <i class="fa-brands fa-amazon"></i> Shop Amazon Storefront →
       </a>
-      <nav>
-        <a href="{{ site.baseurl }}/"><i class="fa-solid fa-house"></i> Home</a>
-        <a href="{{ site.baseurl }}/about/"><i class="fa-solid fa-circle-info"></i> About</a>
-      </nav>
     </div>
-  </header>
+  </div>
+</section>
 
-  <main class="container">
+<!-- Category Navigation Bar -->
+<div style="display: flex; justify-content: center; gap: 0.75rem; flex-wrap: wrap; margin-bottom: 2.5rem;">
+  <span style="background: #0f172a; color: #fff; font-size: 0.85rem; font-weight: 700; padding: 0.5rem 1.25rem; border-radius: 20px; cursor: pointer;">All Roundups</span>
+  <span style="background: #ffffff; border: 1px solid #e2e8f0; color: #475569; font-size: 0.85rem; font-weight: 700; padding: 0.5rem 1.25rem; border-radius: 20px; cursor: pointer;">💻 Desk Aesthetics</span>
+  <span style="background: #ffffff; border: 1px solid #e2e8f0; color: #475569; font-size: 0.85rem; font-weight: 700; padding: 0.5rem 1.25rem; border-radius: 20px; cursor: pointer;">📱 Tech & Creator Gear</span>
+  <span style="background: #ffffff; border: 1px solid #e2e8f0; color: #475569; font-size: 0.85rem; font-weight: 700; padding: 0.5rem 1.25rem; border-radius: 20px; cursor: pointer;">🎓 Student & Focus</span>
+  <span style="background: #ffffff; border: 1px solid #e2e8f0; color: #475569; font-size: 0.85rem; font-weight: 700; padding: 0.5rem 1.25rem; border-radius: 20px; cursor: pointer;">🧘 Home & Wellness</span>
+</div>
+
+<!-- Posts Grid -->
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.75rem; margin-bottom: 4rem;">
+  {% for post in site.posts %}
+  <article style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 14px rgba(0,0,0,0.05); display: flex; flex-direction: column; transition: transform 0.2s, box-shadow 0.2s;">
+    <div style="background: linear-gradient(135deg, #0f172a, #1e293b); padding: 1.5rem; color: #fff; height: 160px; display: flex; flex-direction: column; justify-content: space-between;">
+      <span style="background: rgba(5, 150, 105, 0.2); color: #34d399; font-size: 0.75rem; font-weight: 800; padding: 0.2rem 0.6rem; border-radius: 12px; align-self: flex-start; text-transform: uppercase;">
+        Buying Guide
+      </span>
+      <h2 style="font-family: 'Plus Jakarta Sans', sans-serif; font-size: 1.15rem; font-weight: 800; line-height: 1.35; color: #ffffff;">
+        <a href="{{ post.url | relative_url }}" style="color: #ffffff; text-decoration: none;">{{ post.title }}</a>
+      </h2>
+    </div>
     
-    <div style="text-align: center; margin: 3rem 0 2rem;">
-      <h1 style="font-family: var(--font-heading); font-size: 2.5rem; font-weight: 800; color: var(--color-slate-900); letter-spacing: -0.03em;">
-        Curated Hardware & Product Roundups
-      </h1>
-      <p style="color: var(--color-slate-600); font-size: 1.1rem; max-width: 600px; margin: 0.75rem auto 0;">
-        Tested, reviewed, and ranked by our independent testing lab so you buy right the first time.
+    <div style="padding: 1.25rem; display: flex; flex-direction: column; justify-content: space-between; flex-grow: 1;">
+      <p style="font-size: 0.9rem; color: #64748b; line-height: 1.6; margin-bottom: 1.25rem;">
+        {{ post.description | truncate: 110 }}
       </p>
+      
+      <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #f1f5f9; padding-top: 0.85rem; font-size: 0.8rem; color: #94a3b8;">
+        <span><i class="fa-regular fa-clock"></i> 6 min read</span>
+        <a href="{{ post.url | relative_url }}" style="color: #059669; font-weight: 800; text-decoration: none;">Read Guide →</a>
+      </div>
     </div>
-
-    <ul class="post-list">
-      {% for post in site.posts %}
-      <li class="post-card">
-        <div style="font-size: 0.8rem; font-weight: 700; color: var(--color-emerald-600); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.35rem;">
-          <i class="fa-solid fa-check"></i> Lab Tested
-        </div>
-        <a href="{{ post.url | relative_url }}" class="post-card-title">{{ post.title }}</a>
-        <div class="post-card-meta">
-          <i class="fa-regular fa-calendar"></i> {{ post.date | date: "%B %d, %Y" }} • By {{ post.author | default: "The Daily Scout Editorial Board" }}
-        </div>
-        {% if post.description %}
-        <p class="post-card-desc">{{ post.description }}</p>
-        {% endif %}
-      </li>
-      {% endfor %}
-    </ul>
-
-  </main>
-
-  <footer class="site-footer">
-    <div class="container">
-      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
-      <p class="disclosure-footer">The Daily Scout participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.</p>
-    </div>
-  </footer>
-
-</body>
-</html>
+  </article>
+  {% endfor %}
+</div>
