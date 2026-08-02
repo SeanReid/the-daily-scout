@@ -14,109 +14,90 @@ Enter the smart reusable notebook.
 
 Whether they are heading off to college or stepping into their first real-world job, a smart notebook is the ultimate productivity hack for 2026. It combines the tactile, satisfying feel of pen on paper with the magic of instant digital backup. After testing a ton of these over the last few months, I've narrowed it down to the top 5 smart notebooks that make the perfect graduation gifts.
 
+### Our Top Pick: Rocketbook Pro with Premium Vegan Leather Cover
 
-<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
-      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Our Top Pick: Rocketbook Pro with Premium Vegan Leather Cover" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
-    </div>
-    <div style="flex: 1; min-width: 260px;">
-      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Our Top Pick: Rocketbook Pro with Premium Vegan Leather Cover</h3>
-      <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">If you want to impress a new grad, this is the one. It looks executive, feels incredibly premium, and functions flawlessly. It's the perfect companion for walking into a big meeting or a college lecture hall.</p>
-      <a href="https://www.amazon.com/s?k=Our+Top+Pick%3A+Rocketbook+Pro+with+Premium+Vegan+Leather+Cover&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
-        <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
-      </a>
-    </div>
-  </div>
-</div>
+![Our Top Pick: Rocketbook Pro with Premium Vegan Leather Cover](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
 
+**Price:** Check Price at Amazon
 
-<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
-      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Rocketbook Fusion Smart Reusable Notebook" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
-    </div>
-    <div style="flex: 1; min-width: 260px;">
-      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Rocketbook Fusion Smart Reusable Notebook</h3>
-      <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">**Price:** $30 - $40
-[Check Price on Amazon](https://www.amazon.com/dp/B07RV9BYYF?tag=thedailysco0d-20)</p>
-      <a href="https://www.amazon.com/s?k=Rocketbook+Fusion+Smart+Reusable+Notebook&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
-        <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
-      </a>
-    </div>
-  </div>
-</div>
+If you want to impress a new grad, this is the one. It looks executive, feels incredibly premium, and functions flawlessly. It's the perfect companion for walking into a big meeting or a college lecture hall.
+Let's dive into the full list!
+---
 
+[🛒 Buy on Amazon (Check Price) →](https://www.amazon.com/s?k=Our+Top+Pick%3A+Rocketbook+Pro+with+Premium+Vegan+Leather+Cover&tag=thedailysco0d-20)
 
-<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
-      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Moleskine Smart Writing Set Accessory" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
-    </div>
-    <div style="flex: 1; min-width: 260px;">
-      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Moleskine Smart Writing Set Accessory</h3>
-      <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">**Price:** $25 - $40</p>
-      <a href="https://www.amazon.com/s?k=Moleskine+Smart+Writing+Set+Accessory&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
-        <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
-      </a>
-    </div>
-  </div>
-</div>
+### Rocketbook Fusion Smart Reusable Notebook
 
+![Rocketbook Fusion Smart Reusable Notebook](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
 
-<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
-      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Rocketbook Pro with Premium Vegan Leather Cover" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
-    </div>
-    <div style="flex: 1; min-width: 260px;">
-      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Rocketbook Pro with Premium Vegan Leather Cover</h3>
-      <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">**Price:** $50 - $65</p>
-      <a href="https://www.amazon.com/s?k=Rocketbook+Pro+with+Premium+Vegan+Leather+Cover&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
-        <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
-      </a>
-    </div>
-  </div>
-</div>
+**Price:** Check Price at Amazon
 
+**Price:** $30 - $40
+[Check Price on Amazon](https://www.amazon.com/dp/B07RV9BYYF?tag=thedailysco0d-20)
+The Rocketbook Fusion is basically the undisputed king of the smart notebook world right now. It features 42 reusable pages packed with 7 different page styles (task lists, weekly planners, dotted, and lined). You write, scan with the incredibly snappy Rocketbook app, and then wipe the page clean with a damp cloth. It's arguably the most versatile reusable notebook review you'll read today.
+**Pros:**
+**Cons:**
+**Who it's best for:** The organization junkie who needs a planner, sketchbook, and lined notebook all rolled into one. It's one of the top college essentials for sure.
 
-<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
-      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Boogie Board Blackboard Smart Reusable Letter Pad" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
-    </div>
-    <div style="flex: 1; min-width: 260px;">
-      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Boogie Board Blackboard Smart Reusable Letter Pad</h3>
-      <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">**Price:** $40 - $55
-[Check Price on Amazon](https://www.amazon.com/dp/B079796Y8T?tag=thedailysco0d-20)</p>
-      <a href="https://www.amazon.com/s?k=Boogie+Board+Blackboard+Smart+Reusable+Letter+Pad&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
-        <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
-      </a>
-    </div>
-  </div>
-</div>
+[🛒 Buy on Amazon (Check Price) →](https://www.amazon.com/s?k=Rocketbook+Fusion+Smart+Reusable+Notebook&tag=thedailysco0d-20)
 
+### Moleskine Smart Writing Set Accessory
 
-<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
-      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Thinkers Smart Notebook with App Integration" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
-    </div>
-    <div style="flex: 1; min-width: 260px;">
-      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Thinkers Smart Notebook with App Integration</h3>
-      <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">**Price:** $35 - $50</p>
-      <a href="https://www.amazon.com/s?k=Thinkers+Smart+Notebook+with+App+Integration&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
-        <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
-      </a>
-    </div>
-  </div>
-</div>
+![Moleskine Smart Writing Set Accessory](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
+
+**Price:** Check Price at Amazon
+
+**Price:** $25 - $40
+Moleskine is the gold standard for luxury journaling, and their smart writing ecosystem is no exception. While this is technically an accessory to their broader smart set, wrapping up anything with the Moleskine name carries a certain weight. It elevates the digital writing experience by maintaining that classic, prestige notebook feel. If you are searching for graduation gift ideas 2026 that scream "professional," you can't go wrong here.
+**Pros:**
+**Cons:**
+**Who it's best for:** The design student or new executive who cares deeply about aesthetics and brand heritage.
+
+[🛒 Buy on Amazon (Check Price) →](https://www.amazon.com/s?k=Moleskine+Smart+Writing+Set+Accessory&tag=thedailysco0d-20)
+
+### Rocketbook Pro with Premium Vegan Leather Cover
+
+![Rocketbook Pro with Premium Vegan Leather Cover](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
+
+**Price:** Check Price at Amazon
+
+**Price:** $50 - $65
+As mentioned in our top pick, the Rocketbook Pro takes everything great about the standard Rocketbook and wraps it in a stunning vegan leather cover. The pages attach magnetically, meaning you can swap out lined pages for dotted ones in seconds. It lies completely flat, which is a massive upgrade over spiral-bound versions. This is one of the best productivity gifts for him (or her!) as they start their career.
+**Pros:**
+**Cons:**
+**Who it's best for:** The newly hired professional who needs to look sharp in the boardroom.
+
+[🛒 Buy on Amazon (Check Price) →](https://www.amazon.com/s?k=Rocketbook+Pro+with+Premium+Vegan+Leather+Cover&tag=thedailysco0d-20)
+
+### Boogie Board Blackboard Smart Reusable Letter Pad
+
+![Boogie Board Blackboard Smart Reusable Letter Pad](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
+
+**Price:** Check Price at Amazon
+
+**Price:** $40 - $55
+[Check Price on Amazon](https://www.amazon.com/dp/B079796Y8T?tag=thedailysco0d-20)
+The Boogie Board Blackboard is a totally different take on the best smart notebook category. It feels more like writing on a digital chalkboard or tablet, but with zero lag. You write with the included stylus, and you can clear the whole board with the push of a button, or erase specific mistakes with the exact-erase feature. You capture your notes via their app. It's highly visual and incredibly satisfying to use.
+**Pros:**
+**Cons:**
+**Who it's best for:** Visual thinkers, math majors, and anyone who prefers a whiteboard-style brainstorming session over structured note-taking.
+
+[🛒 Buy on Amazon (Check Price) →](https://www.amazon.com/s?k=Boogie+Board+Blackboard+Smart+Reusable+Letter+Pad&tag=thedailysco0d-20)
+
+### Thinkers Smart Notebook with App Integration
+
+![Thinkers Smart Notebook with App Integration](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
+
+**Price:** Check Price at Amazon
+
+**Price:** $35 - $50
+Thinkers is the dark horse on this list, but it absolutely delivers for the creative professional. What sets it apart is the actual quality of the paper. It feels thicker and more premium than many competitors. Their proprietary app is also specifically designed to help you organize and actually *use* your ideas, not just store them in a digital filing cabinet.
+**Pros:**
+**Cons:**
+**Who it's best for:** The creative professional, writer, or entrepreneur who values a premium writing experience combined with smart digital filing.
+---
+
+[🛒 Buy on Amazon (Check Price) →](https://www.amazon.com/s?k=Thinkers+Smart+Notebook+with+App+Integration&tag=thedailysco0d-20)
 
 ### Quick Comparison & Final Thoughts
 

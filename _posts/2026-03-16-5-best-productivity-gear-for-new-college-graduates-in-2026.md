@@ -12,90 +12,80 @@ Just tossed your graduation cap in the air? Congratulations! Now comes the hard 
 
 After reviewing dozens of gadgets, we've narrowed it down to the five essential productivity tools every new grad needs for their first apartment office or work-from-home setup.
 
+### Smart Reusable Spiral Notebook with Cloud Sync
 
-<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
-      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Smart Reusable Spiral Notebook with Cloud Sync" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
-    </div>
-    <div style="flex: 1; min-width: 260px;">
-      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Smart Reusable Spiral Notebook with Cloud Sync</h3>
-      <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">**Price:** $30-40</p>
-      <a href="https://www.amazon.com/s?k=Smart+Reusable+Spiral+Notebook+with+Cloud+Sync&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
-        <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
-      </a>
-    </div>
-  </div>
-</div>
+![Smart Reusable Spiral Notebook with Cloud Sync](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
 
+**Price:** Check Price at Amazon
 
-<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
-      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Vertical Ergonomic Wireless Mouse" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
-    </div>
-    <div style="flex: 1; min-width: 260px;">
-      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Vertical Ergonomic Wireless Mouse</h3>
-      <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">**Price:** $45-60</p>
-      <a href="https://www.amazon.com/s?k=Vertical+Ergonomic+Wireless+Mouse&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
-        <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
-      </a>
-    </div>
-  </div>
-</div>
+**Price:** $30-40
+[Check Price on Amazon](https://www.amazon.com/s?k=smart+reusable+notebook+cloud+sync&tag=thedailysco0d-20)
+This isn't your average notebook. It feels like traditional paper, but you can sync your handwritten notes to Google Drive, Dropbox, or Slack with a quick scan from your phone. Then, just wipe the pages clean with a damp cloth and start over. It's the perfect bridge between analog brainstorming and digital organization.
+- **Pros:** Eco-friendly, saves money on notebooks, digitizes messy handwriting.
+- **Cons:** Requires a specific pen, can feel a bit like writing on a whiteboard.
+- **Best for:** The grad who loves the feel of pen and paper but needs to stay organized digitally.
 
+[🛒 Buy on Amazon (Check Price) →](https://www.amazon.com/s?k=Smart+Reusable+Spiral+Notebook+with+Cloud+Sync&tag=thedailysco0d-20)
 
-<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
-      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Visual Pomodoro Productivity Timer" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
-    </div>
-    <div style="flex: 1; min-width: 260px;">
-      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Visual Pomodoro Productivity Timer</h3>
-      <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">**Price:** $25-35</p>
-      <a href="https://www.amazon.com/s?k=Visual+Pomodoro+Productivity+Timer&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
-        <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
-      </a>
-    </div>
-  </div>
-</div>
+### Vertical Ergonomic Wireless Mouse
 
+![Vertical Ergonomic Wireless Mouse](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
 
-<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
-      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="**Our Top Pick: Adjustable Aluminum Laptop Stand**" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
-    </div>
-    <div style="flex: 1; min-width: 260px;">
-      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">**Our Top Pick: Adjustable Aluminum Laptop Stand**</h3>
-      <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">**Price:** $35-50</p>
-      <a href="https://www.amazon.com/s?k=%2A%2AOur+Top+Pick%3A+Adjustable+Aluminum+Laptop+Stand%2A%2A&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
-        <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
-      </a>
-    </div>
-  </div>
-</div>
+**Price:** Check Price at Amazon
 
+**Price:** $45-60
+[Check Price on Amazon](https://www.amazon.com/s?k=vertical+ergonomic+wireless+mouse&tag=thedailysco0d-20)
+Your wrist will thank you. A vertical mouse might look strange, but it keeps your arm in a natural 'handshake' position, reducing strain during long workdays. After a week, you'll wonder how you ever used a flat mouse. It's a small investment in your long-term health and comfort.
+- **Pros:** Significantly more comfortable, prevents wrist pain, great conversation starter.
+- **Cons:** Has a learning curve, can be bulky for travel.
+- **Best for:** The new grad starting their first full-time desk job. Health is wealth!
 
-<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
-      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Mechanical Gaming Keyboard with Linear Switches" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
-    </div>
-    <div style="flex: 1; min-width: 260px;">
-      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Mechanical Gaming Keyboard with Linear Switches</h3>
-      <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">**Price:** $60-75</p>
-      <a href="https://www.amazon.com/s?k=Mechanical+Gaming+Keyboard+with+Linear+Switches&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
-        <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
-      </a>
-    </div>
-  </div>
-</div>
+[🛒 Buy on Amazon (Check Price) →](https://www.amazon.com/s?k=Vertical+Ergonomic+Wireless+Mouse&tag=thedailysco0d-20)
+
+### Visual Pomodoro Productivity Timer
+
+![Visual Pomodoro Productivity Timer](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
+
+**Price:** Check Price at Amazon
+
+**Price:** $25-35
+[Check Price on Amazon](https://www.amazon.com/s?k=visual+pomodoro+productivity+timer&tag=thedailysco0d-20)
+Procrastination is real, especially when you're adapting to a new routine. This simple, aesthetic timer uses the Pomodoro Technique (25 minutes of focused work, 5 minutes of break) to help you power through tasks. The visual countdown is less jarring than a phone alarm and makes staying on track feel like a game.
+- **Pros:** Beautiful design, non-distracting, helps build deep work habits.
+- **Cons:** Can feel a bit single-purpose for the price.
+- **Best for:** The easily distracted grad who wants to build focus and looks for 'shelf-aesthetic' tools.
+
+[🛒 Buy on Amazon (Check Price) →](https://www.amazon.com/s?k=Visual+Pomodoro+Productivity+Timer&tag=thedailysco0d-20)
+
+### **Our Top Pick: Adjustable Aluminum Laptop Stand**
+
+![**Our Top Pick: Adjustable Aluminum Laptop Stand**](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
+
+**Price:** Check Price at Amazon
+
+**Price:** $35-50
+[Check Price on Amazon](https://www.amazon.com/s?k=adjustable+aluminum+laptop+stand&tag=thedailysco0d-20)
+If you buy one thing from this list, make it this. Hunching over a laptop is a recipe for neck and back pain. This stand elevates your screen to eye level, instantly improving your posture. It's sturdy, portable, and an absolute non-negotiable for anyone working from a laptop, whether at home or in the office.
+- **Pros:** Fixes bad posture, prevents neck pain, improves laptop airflow.
+- **Cons:** Requires a separate keyboard and mouse for best ergonomics.
+- **Best for:** Absolutely every new graduate. Seriously, your future self will thank you.
+
+[🛒 Buy on Amazon (Check Price) →](https://www.amazon.com/s?k=%2A%2AOur+Top+Pick%3A+Adjustable+Aluminum+Laptop+Stand%2A%2A&tag=thedailysco0d-20)
+
+### Mechanical Gaming Keyboard with Linear Switches
+
+![Mechanical Gaming Keyboard with Linear Switches](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
+
+**Price:** Check Price at Amazon
+
+**Price:** $60-75
+[Check Price on Amazon](https://www.amazon.com/s?k=mechanical+keyboard+linear+switches&tag=thedailysco0d-20)
+Don't let the 'gaming' label fool you. A good mechanical keyboard is a joy to type on, making emails and reports feel less like a chore. The linear switches are relatively quiet for an office environment but provide satisfying tactile feedback that can actually make you a faster, more accurate typist. Plus, the 'cozy gaming' aesthetic fits right in with modern desk setups.
+- **Pros:** Superior typing experience, durable and long-lasting, customizable look.
+- **Cons:** Can be louder than a standard membrane keyboard, higher price point.
+- **Best for:** The grad who types a lot and appreciates the finer things in their tech setup.
+
+[🛒 Buy on Amazon (Check Price) →](https://www.amazon.com/s?k=Mechanical+Gaming+Keyboard+with+Linear+Switches&tag=thedailysco0d-20)
 
 ### Quick Comparison
 

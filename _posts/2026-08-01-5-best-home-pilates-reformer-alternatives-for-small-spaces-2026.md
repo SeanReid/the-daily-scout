@@ -14,36 +14,24 @@ After testing dozens of compact workout tools, I have identified the 5 absolute 
 
 ---
 
+### OUR TOP PICK
 
-<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
-      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="OUR TOP PICK" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
-    </div>
-    <div style="flex: 1; min-width: 260px;">
-      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">OUR TOP PICK</h3>
-      <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">---</p>
-      <a href="https://www.amazon.com/s?k=OUR+TOP+PICK&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
-        <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
-      </a>
-    </div>
-  </div>
-</div>
+![OUR TOP PICK](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
 
+**Price:** Check Price at Amazon
 
-<div class="wirecutter-gift-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 1.75rem; margin: 2.25rem 0; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; gap: 1.25rem;">
-  <div style="display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 240px; max-width: 100%; text-align: center; background: #ffffff; border: 1px solid #f3f4f6; border-radius: 12px; padding: 1.25rem; box-shadow: inset 0 0 10px rgba(0,0,0,0.02);">
-      <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80" alt="Empower Portable Pilates Bar Kit with Resistance Bands" style="max-width: 100%; max-height: 210px; object-fit: contain; border-radius: 6px;">
-    </div>
-    <div style="flex: 1; min-width: 260px;">
-      <h3 style="font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 1.4rem; font-weight: 800; color: #111827; margin-bottom: 0.4rem; border: none; padding: 0; line-height: 1.25;">Empower Portable Pilates Bar Kit with Resistance Bands</h3>
-      <div style="font-size: 1.1rem; font-weight: 800; color: #059669; margin-bottom: 0.85rem;">Check Price at Amazon</div>
-      <p style="font-size: 1.02rem; color: #374151; line-height: 1.65; margin-bottom: 1.25rem;">The Empower Portable Pilates Bar Kit is the ultimate workhorse for apartment dwellers wanting traditional reformer workouts. Consisting of a lightweight, collapsible steel bar attached to dual resistance bands with foot loops, this set replicates footbar carriage pushes, arm straps, and chest expansions with surprising fluid control.</p>
-      <a href="https://www.amazon.com/s?k=Empower+Portable+Pilates+Bar+Kit+with+Resistance+Bands&tag=thedailysco0d-20" target="_blank" rel="nofollow noopener" style="display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, #ff9900, #ffaa00); color: #0f172a !important; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 0.95rem; padding: 0.75rem 1.6rem; border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(255, 153, 0, 0.4);">
-        <i class="fa-solid fa-cart-shopping"></i> Buy on Amazon (Check Price) →
-      </a>
-    </div>
-  </div>
-</div>
+If you only buy one item from this list, make it the **Empower Portable Pilates Bar Kit**. It closest mimics the springs, foot straps, and tension movements of a traditional studio reformer without taking up a single foot of permanent floor space.
+---
+
+[🛒 Buy on Amazon (Check Price) →](https://www.amazon.com/s?k=OUR+TOP+PICK&tag=thedailysco0d-20)
+
+### Empower Portable Pilates Bar Kit with Resistance Bands
+
+![Empower Portable Pilates Bar Kit with Resistance Bands](https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80)
+
+**Price:** Check Price at Amazon
+
+**Our Top Pick for Full Body Reformer Moves**
+The Empower Portable Pilates Bar Kit is the ultimate workhorse for apartment dwellers wanting traditional reformer workouts. Consisting of a lightweight, collapsible steel bar attached to dual resistance bands with foot loops, this set replicates footbar carriage pushes, arm straps, and chest expansions with surprising fluid control.
+
+[🛒 Buy on Amazon (Check Price) →](https://www.amazon.com/s?k=Empower+Portable+Pilates+Bar+Kit+with+Resistance+Bands&tag=thedailysco0d-20)
